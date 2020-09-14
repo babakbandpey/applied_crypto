@@ -1,0 +1,196 @@
+<ptr>]::startClient() - 0
+  audioEngine && !isInactive(). State = 0 
+  audioEngine->getState() != kIOAudioEnginePaused 
++- IOAudioEngineUserClient[<ptr>]::setOnline(1)
+  !isOnline() setting online 
++ IOAudioEngine[<ptr>]::startClient(<ptr>)
++ IOAudioEngine[<ptr>]::incrementActiveUserClients() - 0
++ IOAudioEngine[<ptr>]::startAudioEngine(state = 0)
++ IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2
+- IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2 returns 0x0
++ IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2
+- IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2 returns 0x0
++ IOAudioDevice[<ptr>]::audioEngineStarting() - numRunningAudioEngines = 0
+- IOAudioDevice[<ptr>]::audioEngineStarting() - numRunningAudioEngines = 1
++- IOAudioEngine[<ptr>]::resetStatusBuffer()
++-IOAudioEngine[<ptr>]::setState(0x1. oldState=0)
+- IOAudioEngine[<ptr>]::getTimerInterval()
+- IOAudioEngine[<ptr>]::startAudioEngine() returns 0x0
+- IOAudioEngine[<ptr>]::incrementActiveUserClients() - 1 returns 0
+- IOAudioEngine[<ptr>]::startClient(<ptr>) returns 0x0
+  engine started 
+  bufferSet <ptr> 
+  output clientBuffer <ptr> 
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
++ IOAudioStream[<ptr>]::addClient(<ptr>)
+- IOAudioStream[<ptr>]::addClient(<ptr>) returns 0x0
+- IOAudioEngineUserClient[<ptr>]::startClient() - 1 returns 0x0
+- IOAudioEngineUserClient::externalMethod returns 0x0
+PMRD: aggressiveness changed: system 1->0, display 10
+PMRD: idle time -> 0 secs (ena 0)
+PMRD: idle sleep timer disabled
+PMRD: changePowerStateToPriv(4)
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
++ IOAudioEngineUserClient::externalMethod, selector=0x4,   arg0 0x0, arg1 0x0, arg2 0x0 arg3 0x0 
+  scalarInputCount=0x0  structureInputSize 0x0, scalarOutputCount 0x0, structureOutputSize 0x0 
++ IOAudioStream[<ptr>]::removeClient(<ptr>)
++-IOAudioStream[<ptr>]::safeLogError kErrorLogDumpCounters mStreamErrorCountsUpdated=0
+- IOAudioStream[<ptr>]::removeClient(<ptr>)
++- IOAudioEngine[<ptr>]::decrementActiveUserClients() - 0 returns 0x0
++- IOAudioEngine[<ptr>]::stopClient(<ptr>) returns 0x0
++- IOAudioEngineUserClient[<ptr>]::setOnline(0)
+- IOAudioEngineUserClient::externalMethod returns 0x0
++ IOAudioEngineUserClient::externalMethod, selector=0x1,   arg0 0x111715000, arg1 0x7f1, arg2 0x0 arg3 0x0 
+  scalarInputCount=0x2  structureInputSize 0x0, scalarOutputCount 0x0, structureOutputSize 0x0 
++ IOAudioEngineUserClient[<ptr>]::unregisterClientBuffer64(0x<ptr>, 0x7f1)
+  searching for sourceBuffer 0x111715000 
++- IOAudioEngineUserClient[<ptr>]::removeBufferSet(<ptr>)
++ IOAudioStream[<ptr>]::removeClient(<ptr>)
++-IOAudioStream[<ptr>]::safeLogError kErrorLogDumpCounters mStreamErrorCountsUpdated=0
+- IOAudioStream[<ptr>]::removeClient(<ptr>)
+- IOAudioEngineUserClient::unregisterClientBuffer64 no sourcebuffer returns 0x0
+- IOAudioEngineUserClient::externalMethod returns 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 1
+PMRD: aggressiveness changed: system 0->1, display 10
+PMRD: idle time -> 0 secs (ena 1)
+PMRD: idle sleep timer enabled
++ IOAudioEngine[<ptr>]::stopAudioEngine()
++-IOAudioEngine[<ptr>]::setState(0x0. oldState=0x1)
++ IOAudioDevice[<ptr>]::audioEngineStopped() - numRunningAudioEngines = 1
++ IOAudioDevice[<ptr>]::scheduleIdleAudioSleep: idleSleepDelayTime = ffffffffffffffffffffffff
+- IOAudioDevice[<ptr>]::scheduleIdleAudioSleep: idleSleepDelayTime = ffffffffffffffffffffffff
+- IOAudioDevice[<ptr>]::audioEngineStopped() - numRunningAudioEngines = 0
+- IOAudioEngine[<ptr>]::stopAudioEngine() returns 0x0
+tcp_timers: tcp_output() returned 0 with retransmission timer disabled for 54308 > 443 in state 4, reset timer to 288Sandbox: 1 duplicate report for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 1 duplicate report for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationPMRD: power event 14 args 0 0x0
+PMRD: wrangler RootDomainPower (ps 4, 0->1)
+PMRD: evaluatePolicy( 0, 0x0 )
+Sandbox: 7 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationStarting poll type 4
+Restarting poll type 4
+SmartBattery: finished polling type 4
+Sandbox: 4 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 7 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 5 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 3 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 5 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 1 duplicate report for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationStarting poll type 4
+Restarting poll type 4
+SmartBattery: finished polling type 4
+Sandbox: 1 duplicate report for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 1 duplicate report for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: cfprefsd(324) System Policy: deny(1) file-read-data /Users/lorena/Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProviderSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.Notificationtcp_timers: tcp_output() returned 0 with retransmission timer disabled for 54361 > 443 in state 4, reset timer to 351Sandbox: 9 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 5 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.Notificationtx_flush:1028: xid 149194 tx stats: # 114480 finish 114685 enter 555 wait 1147 3303us close 11us flush 8373us
+Sandbox: 11 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.Notificationtcp_timers: tcp_output() returned 0 with retransmission timer disabled for 54389 > 443 in state 4, reset timer to 404Sandbox: 5 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.NotificationStarting poll type 4
+Restarting poll type 4
+SmartBattery: finished polling type 4
+Sandbox: 3 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(32151) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 1 duplicate report for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 1 duplicate report for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.Notification+ IOAudioEngineUserClient::externalMethod, selector=0x0,   arg0 0x0, arg1 0x111715000, arg2 0x8010 arg3 0x745 
+  scalarInputCount=0x4  structureInputSize 0x0, scalarOutputCount 0x0, structureOutputSize 0x0 
++ IOAudioEngineUserClient::registerBuffer64 0x0 0x111715000 0x8010 0x745
++ IOAudioEngineUserClient::safeRegisterClientBuffer64 <ptr> 
++ IOAudioEngineUserClient[<ptr>]::registerClientBuffer64  (<ptr>[1], 0x111715000, 0x8010, 0x745)
+  null clientBufferSetList
+  did not find clientBufferSetList for ID 0x745 
+  clientBuffer->mAudioClientBuffer32.sourceBuffer before offset: <ptr>, offset size: 16
+  clientBuffer->mAudioClientBuffer32.sourceBuffer after offset: <ptr>
+  null clientBufferSetList
+  did not find clientBufferSetList for ID 0x745 
+  creating new IOAudioClientBufferSet 
+  output 
+  !isOnline 
+- IOAudioEngineUserClient::registerClientBuffer64() result 0x0
+- IOAudioEngineUserClient::safeRegisterClientBuffer64  returns 0x0
+- IOAudioEngineUserClient::registerBuffer64 0x0 0x111715000 0x8010 0x745 returns 0x0
+- IOAudioEngineUserClient::externalMethod returns 0x0
++ IOAudioEngineUserClient::externalMethod, selector=0x3,   arg0 0x0, arg1 0x0, arg2 0x0 arg3 0x0 
+  scalarInputCount=0x0  structureInputSize 0x0, scalarOutputCount 0x0, structureOutputSize 0x0 
++ IOAudioEngineUserClient[<ptr>]::startClient() - 0
+  audioEngine && !isInactive(). State = 0 
+  audioEngine->getState() != kIOAudioEnginePaused 
++- IOAudioEngineUserClient[<ptr>]::setOnline(1)
+  !isOnline() setting online 
++ IOAudioEngine[<ptr>]::startClient(<ptr>)
++ IOAudioEngine[<ptr>]::incrementActiveUserClients() - 0
++ IOAudioEngine[<ptr>]::startAudioEngine(state = 0)
++ IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2
+- IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2 returns 0x0
++ IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2
+- IOAudioDevice[<ptr>]::protectedCompletePowerStateChange() - current = 2 - pending = 2 returns 0x0
++ IOAudioDevice[<ptr>]::audioEngineStarting() - numRunningAudioEngines = 0
+- IOAudioDevice[<ptr>]::audioEngineStarting() - numRunningAudioEngines = 1
++- IOAudioEngine[<ptr>]::resetStatusBuffer()
++-IOAudioEngine[<ptr>]::setState(0x1. oldState=0)
+- IOAudioEngine[<ptr>]::getTimerInterval()
+- IOAudioEngine[<ptr>]::startAudioEngine() returns 0x0
+- IOAudioEngine[<ptr>]::incrementActiveUserClients() - 1 returns 0
+- IOAudioEngine[<ptr>]::startClient(<ptr>) returns 0x0
+  engine started 
+  bufferSet <ptr> 
+  output clientBuffer <ptr> 
++ IOAudioStream[<ptr>]::addClient(<ptr>)
+- IOAudioStream[<ptr>]::addClient(<ptr>) returns 0x0
+- IOAudioEngineUserClient[<ptr>]::startClient() - 1 returns 0x0
+- IOAudioEngineUserClient::externalMethod returns 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 0
+PMRD: aggressiveness changed: system 1->0, display 10
+PMRD: idle time -> 0 secs (ena 0)
+PMRD: idle sleep timer disabled
+PMRD: changePowerStateToPriv(4)
+PMRD: PowerChangeDone: ON_STATE->ON_STATE
+Sandbox: 15 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.Notification+ IOAudioEngineUserClient::externalMethod, selector=0x4,   arg0 0x0, arg1 0x0, arg2 0x0 arg3 0x0 
+  scalarInputCount=0x0  structureInputSize 0x0, scalarOutputCount 0x0, structureOutputSize 0x0 
++ IOAudioStream[<ptr>]::removeClient(<ptr>)
++-IOAudioStream[<ptr>]::safeLogError kErrorLogDumpCounters mStreamErrorCountsUpdated=0
+- IOAudioStream[<ptr>]::removeClient(<ptr>)
++- IOAudioEngine[<ptr>]::decrementActiveUserClients() - 0 returns 0x0
++- IOAudioEngine[<ptr>]::stopClient(<ptr>) returns 0x0
++- IOAudioEngineUserClient[<ptr>]::setOnline(0)
+- IOAudioEngineUserClient::externalMethod returns 0x0
++ IOAudioEngineUserClient::externalMethod, selector=0x1,   arg0 0x111715000, arg1 0x745, arg2 0x0 arg3 0x0 
+  scalarInputCount=0x2  structureInputSize 0x0, scalarOutputCount 0x0, structureOutputSize 0x0 
++ IOAudioEngineUserClient[<ptr>]::unregisterClientBuffer64(0x<ptr>, 0x745)
+  searching for sourceBuffer 0x111715000 
++- IOAudioEngineUserClient[<ptr>]::removeBufferSet(<ptr>)
++ IOAudioStream[<ptr>]::removeClient(<ptr>)
++-IOAudioStream[<ptr>]::safeLogError kErrorLogDumpCounters mStreamErrorCountsUpdated=0
+- IOAudioStream[<ptr>]::removeClient(<ptr>)
+- IOAudioEngineUserClient::unregisterClientBuffer64 no sourcebuffer returns 0x0
+- IOAudioEngineUserClient::externalMethod returns 0x0
+PMRD: setAggressiveness(0) kPMMinutesToSleep = 1
+PMRD: aggressiveness changed: system 0->1, display 10
+PMRD: idle time -> 0 secs (ena 1)
+PMRD: idle sleep timer enabled
++ IOAudioEngine[<ptr>]::stopAudioEngine()
++-IOAudioEngine[<ptr>]::setState(0x0. oldState=0x1)
++ IOAudioDevice[<ptr>]::audioEngineStopped() - numRunningAudioEngines = 1
++ IOAudioDevice[<ptr>]::scheduleIdleAudioSleep: idleSleepDelayTime = ffffffffffffffffffffffff
+- IOAudioDevice[<ptr>]::scheduleIdleAudioSleep: idleSleepDelayTime = ffffffffffffffffffffffff
+- IOAudioDevice[<ptr>]::audioEngineStopped() - numRunningAudioEngines = 0
+- IOAudioEngine[<ptr>]::stopAudioEngine() returns 0x0
+tx_flush:1028: xid 149214 tx stats: # 114500 finish 114705 enter 555 wait 1147 3303us close 11us flush 8373us
+Sandbox: 6 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: 3 duplicate reports for com.apple.WebKit deny(1) mach-lookup com.apple.CoreDisplay.NotificationSandbox: bluetoothd(156) deny(1) mach-lookup com.apple.server.bluetoothSandbox: com.apple.WebKit(26757) deny(1) mach-lookup com.apple.CoreDisplay.NotificationIOConsoleUsers: time(0) 0->0, lin 1, llk 0, 
+IOConsoleUsers: gIOScreenLockState 1, hs 0, bs 0, now 0, sm 0x0
+IOHIDLibUserClient:0x10033bb80 activhardwareser is not entitled for IOHIDLibUserClient keyboard access
+
+IOHIDLibUserClient:0x10033bb80 setValid: false
+
+IOHIDLibUserClient:0x10033bc08 activhardwareser is not entitled for IOHIDLibUserClient keyboard access
+
+IOHIDLibUserClient:0x10033bb80 setStateForQueues: 0x1
+
+IOHIDLibUserClient:0x10033bc08 setValid: false
+
+IOHIDLibUserClient:0x10033bc08 setStateForQueues: 0x1
+
+IOHIDLibUserClient:0x1005f3366 activhardwareser is not entitled for IOHIDLibUserClient keyboard access
+
+IOHIDLibUserClient:0x1005f3366 setValid: false
+
+IOHIDLibUserClient:0x1005f3366 setStateForQueues: 0x1
+
+Starting poll type 4
+Restarting poll type 4
+SmartBattery: finished polling type 4
+IOConsoleUsers: time(0) 0->0, lin 1, llk 0, 
+IOConsoleUsers: gIOScreenLockState 1, hs 0, bs 0, now 0, sm 0x0
+IOHIDLibUserClient:0x10033bb80 setValid: true
+
+IOHIDLibUserClient:0x10033bc08 setValid: true
+
+IOHIDLibUserClient:0x10033bb80 setStateForQueues: 0x0
+
+IOHIDLibUserClient:0x10033bc08 setStateForQueues: 0x0
+
+IOHIDLibUserClient:0x1005f3366 setValid: true
+
+IOHIDLibUserClient:0x1005f3366 setStateForQueues: 0x0

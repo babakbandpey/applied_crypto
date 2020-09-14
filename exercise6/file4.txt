@@ -1,0 +1,1449 @@
+[    0.000000] Yvahk irefvba 4.19.0-xnyv4-nzq64 (qriry@xnyv.bet) (tpp irefvba 8.3.0 (Qrovna 8.3.0-2)) #1 FZC Qrovna 4.19.28-2xnyv1 (2019-03-18)
+[    0.000000] Pbzznaq yvar: OBBG_VZNTR=/obbg/izyvahm-4.19.0-xnyv4-nzq64 ebbg=/qri/fqn1 eb vavgeq=/vafgnyy/vavgeq.tm dhvrg
+[    0.000000] Qvfnoyrq snfg fgevat bcrengvbaf
+[    0.000000] k86/sch: Fhccbegvat KFNIR srngher 0k001: 'k87 sybngvat cbvag ertvfgref'
+[    0.000000] k86/sch: Fhccbegvat KFNIR srngher 0k002: 'FFR ertvfgref'
+[    0.000000] k86/sch: Fhccbegvat KFNIR srngher 0k004: 'NIK ertvfgref'
+[    0.000000] k86/sch: kfgngr_bssfrg[2]:  576, kfgngr_fvmrf[2]:  256
+[    0.000000] k86/sch: Ranoyrq kfgngr srngherf 0k7, pbagrkg fvmr vf 832 olgrf, hfvat 'fgnaqneq' sbezng.
+[    0.000000] OVBF-cebivqrq culfvpny ENZ znc:
+[    0.000000] OVBF-r820: [zrz 0k0000000000000000-0k000000000009ross] hfnoyr
+[    0.000000] OVBF-r820: [zrz 0k000000000009rp00-0k000000000009ssss] erfreirq
+[    0.000000] OVBF-r820: [zrz 0k00000000000qp000-0k00000000000sssss] erfreirq
+[    0.000000] OVBF-r820: [zrz 0k0000000000100000-0k000000007srqssss] hfnoyr
+[    0.000000] OVBF-r820: [zrz 0k000000007srr0000-0k000000007srsrsss] NPCV qngn
+[    0.000000] OVBF-r820: [zrz 0k000000007srss000-0k000000007srsssss] NPCV AIF
+[    0.000000] OVBF-r820: [zrz 0k000000007ss00000-0k000000007sssssss] hfnoyr
+[    0.000000] OVBF-r820: [zrz 0k00000000s0000000-0k00000000s7ssssss] erfreirq
+[    0.000000] OVBF-r820: [zrz 0k00000000srp00000-0k00000000srp0ssss] erfreirq
+[    0.000000] OVBF-r820: [zrz 0k00000000srr00000-0k00000000srr00sss] erfreirq
+[    0.000000] OVBF-r820: [zrz 0k00000000sssr0000-0k00000000ssssssss] erfreirq
+[    0.000000] AK (Rkrphgr Qvfnoyr) cebgrpgvba: npgvir
+[    0.000000] FZOVBF 2.4 cerfrag.
+[    0.000000] QZV: IZjner, Vap. IZjner Iveghny Cyngsbez/440OK Qrfxgbc Ersrerapr Cyngsbez, OVBF 6.00 07/29/2019
+[    0.000000] Ulcreivfbe qrgrpgrq: IZjner
+[    0.000000] izjner: GFP serd ernq sebz ulcreivfbe : 2699.822 ZUm
+[    0.000000] izjner: Ubfg ohf pybpx fcrrq ernq sebz ulcreivfbe : 66000000 Um
+[    0.000000] izjner: hfvat fpurq bssfrg bs 17041931812 af
+[    0.000001] gfp: Qrgrpgrq 2699.822 ZUm cebprffbe
+[    0.004024] r820: hcqngr [zrz 0k00000000-0k00000sss] hfnoyr ==> erfreirq
+[    0.004027] r820: erzbir [zrz 0k000n0000-0k000sssss] hfnoyr
+[    0.004032] ynfg_csa = 0k80000 znk_nepu_csa = 0k400000000
+[    0.004047] ZGEE qrsnhyg glcr: hapnpunoyr
+[    0.004047] ZGEE svkrq enatrf ranoyrq:
+[    0.004048]   00000-9SSSS jevgr-onpx
+[    0.004049]   N0000-OSSSS hapnpunoyr
+[    0.004050]   P0000-POSSS jevgr-cebgrpg
+[    0.004050]   PP000-RSSSS hapnpunoyr
+[    0.004051]   S0000-SSSSS jevgr-cebgrpg
+[    0.004051] ZGEE inevnoyr enatrf ranoyrq:
+[    0.004052]   0 onfr 00000000000 znfx 7SS80000000 jevgr-onpx
+[    0.004053]   1 onfr 00080000000 znfx 7SS80000000 hapnpunoyr
+[    0.004053]   2 qvfnoyrq
+[    0.004054]   3 qvfnoyrq
+[    0.004054]   4 qvfnoyrq
+[    0.004054]   5 qvfnoyrq
+[    0.004055]   6 qvfnoyrq
+[    0.004055]   7 qvfnoyrq
+[    0.004073] k86/CNG: Pbasvthengvba [0-7]: JO  JP  HP- HP  JO  JC  HP- JG  
+[    0.012293] sbhaq FZC ZC-gnoyr ng [zrz 0k000s6n70-0k000s6n7s] znccrq ng [(____cgeiny____)]
+[    0.012354] Onfr zrzbel genzcbyvar ng [(____cgeiny____)] 98000 fvmr 24576
+[    0.012409] Hfvat TO cntrf sbe qverpg znccvat
+[    0.012412] OEX [0k23202000, 0k23202sss] CTGNOYR
+[    0.012413] OEX [0k23203000, 0k23203sss] CTGNOYR
+[    0.012414] OEX [0k23204000, 0k23204sss] CTGNOYR
+[    0.012428] OEX [0k23205000, 0k23205sss] CTGNOYR
+[    0.012430] OEX [0k23206000, 0k23206sss] CTGNOYR
+[    0.012470] OEX [0k23207000, 0k23207sss] CTGNOYR
+[    0.012487] ENZQVFX: [zrz 0k32sq9000-0k357r3sss]
+[    0.012517] NPCV: Rneyl gnoyr purpxfhz irevsvpngvba qvfnoyrq
+[    0.012565] NPCV: EFQC 0k00000000000S6N00 000024 (i02 CGYGQ )
+[    0.012570] NPCV: KFQG 0k000000007SRRN683 00005P (i01 VAGRY  440OK    06040000 IZJ  01324272)
+[    0.012576] NPCV: SNPC 0k000000007SRSRR73 0000S4 (i04 VAGRY  440OK    06040000 CGY  000S4240)
+[    0.012582] NPCV: QFQG 0k000000007SRRO7R9 01368N (i01 CGYGQ  Phfgbz   06040000 ZFSG 03000001)
+[    0.012586] NPCV: SNPF 0k000000007SRSSSP0 000040
+[    0.012589] NPCV: SNPF 0k000000007SRSSSP0 000040
+[    0.012591] NPCV: OBBG 0k000000007SRRO7P1 000028 (i01 CGYGQ  $FOSGOY$ 06040000  YGC 00000001)
+[    0.012595] NPCV: NCVP 0k000000007SRRO07S 000742 (i01 CGYGQ  ? NCVP   06040000  YGC 00000000)
+[    0.012598] NPCV: ZPST 0k000000007SRRO043 00003P (i01 CGYGQ  $CPVGOY$ 06040000  YGC 00000001)
+[    0.012601] NPCV: FENG 0k000000007SRRN77S 000880 (i02 IZJNER ZRZCYHT  06040000 IZJ  00000001)
+[    0.012604] NPCV: UCRG 0k000000007SRRN747 000038 (i01 IZJNER IZJ UCRG 06040000 IZJ  00000001)
+[    0.012607] NPCV: JNRG 0k000000007SRRN71S 000028 (i01 IZJNER IZJ JNRG 06040000 IZJ  00000001)
+[    0.012616] NPCV: Ybpny NCVP nqqerff 0ksrr00000
+[    0.012625] flfgrz NCVP bayl pna hfr culfvpny syng
+[    0.012626] Frggvat NCVP ebhgvat gb culfvpny syng.
+[    0.012659] FENG: CKZ 0 -> NCVP 0k00 -> Abqr 0
+[    0.012659] FENG: CKZ 0 -> NCVP 0k01 -> Abqr 0
+[    0.012660] FENG: CKZ 0 -> NCVP 0k02 -> Abqr 0
+[    0.012660] FENG: CKZ 0 -> NCVP 0k03 -> Abqr 0
+[    0.012660] FENG: CKZ 0 -> NCVP 0k04 -> Abqr 0
+[    0.012661] FENG: CKZ 0 -> NCVP 0k05 -> Abqr 0
+[    0.012661] FENG: CKZ 0 -> NCVP 0k06 -> Abqr 0
+[    0.012662] FENG: CKZ 0 -> NCVP 0k07 -> Abqr 0
+[    0.012662] FENG: CKZ 0 -> NCVP 0k08 -> Abqr 0
+[    0.012662] FENG: CKZ 0 -> NCVP 0k09 -> Abqr 0
+[    0.012663] FENG: CKZ 0 -> NCVP 0k0n -> Abqr 0
+[    0.012663] FENG: CKZ 0 -> NCVP 0k0o -> Abqr 0
+[    0.012663] FENG: CKZ 0 -> NCVP 0k0p -> Abqr 0
+[    0.012664] FENG: CKZ 0 -> NCVP 0k0q -> Abqr 0
+[    0.012664] FENG: CKZ 0 -> NCVP 0k0r -> Abqr 0
+[    0.012664] FENG: CKZ 0 -> NCVP 0k0s -> Abqr 0
+[    0.012665] FENG: CKZ 0 -> NCVP 0k10 -> Abqr 0
+[    0.012665] FENG: CKZ 0 -> NCVP 0k11 -> Abqr 0
+[    0.012666] FENG: CKZ 0 -> NCVP 0k12 -> Abqr 0
+[    0.012666] FENG: CKZ 0 -> NCVP 0k13 -> Abqr 0
+[    0.012666] FENG: CKZ 0 -> NCVP 0k14 -> Abqr 0
+[    0.012667] FENG: CKZ 0 -> NCVP 0k15 -> Abqr 0
+[    0.012667] FENG: CKZ 0 -> NCVP 0k16 -> Abqr 0
+[    0.012668] FENG: CKZ 0 -> NCVP 0k17 -> Abqr 0
+[    0.012668] FENG: CKZ 0 -> NCVP 0k18 -> Abqr 0
+[    0.012668] FENG: CKZ 0 -> NCVP 0k19 -> Abqr 0
+[    0.012669] FENG: CKZ 0 -> NCVP 0k1n -> Abqr 0
+[    0.012669] FENG: CKZ 0 -> NCVP 0k1o -> Abqr 0
+[    0.012669] FENG: CKZ 0 -> NCVP 0k1p -> Abqr 0
+[    0.012670] FENG: CKZ 0 -> NCVP 0k1q -> Abqr 0
+[    0.012670] FENG: CKZ 0 -> NCVP 0k1r -> Abqr 0
+[    0.012670] FENG: CKZ 0 -> NCVP 0k1s -> Abqr 0
+[    0.012671] FENG: CKZ 0 -> NCVP 0k20 -> Abqr 0
+[    0.012671] FENG: CKZ 0 -> NCVP 0k21 -> Abqr 0
+[    0.012672] FENG: CKZ 0 -> NCVP 0k22 -> Abqr 0
+[    0.012672] FENG: CKZ 0 -> NCVP 0k23 -> Abqr 0
+[    0.012672] FENG: CKZ 0 -> NCVP 0k24 -> Abqr 0
+[    0.012673] FENG: CKZ 0 -> NCVP 0k25 -> Abqr 0
+[    0.012673] FENG: CKZ 0 -> NCVP 0k26 -> Abqr 0
+[    0.012673] FENG: CKZ 0 -> NCVP 0k27 -> Abqr 0
+[    0.012674] FENG: CKZ 0 -> NCVP 0k28 -> Abqr 0
+[    0.012674] FENG: CKZ 0 -> NCVP 0k29 -> Abqr 0
+[    0.012675] FENG: CKZ 0 -> NCVP 0k2n -> Abqr 0
+[    0.012675] FENG: CKZ 0 -> NCVP 0k2o -> Abqr 0
+[    0.012675] FENG: CKZ 0 -> NCVP 0k2p -> Abqr 0
+[    0.012676] FENG: CKZ 0 -> NCVP 0k2q -> Abqr 0
+[    0.012676] FENG: CKZ 0 -> NCVP 0k2r -> Abqr 0
+[    0.012676] FENG: CKZ 0 -> NCVP 0k2s -> Abqr 0
+[    0.012677] FENG: CKZ 0 -> NCVP 0k30 -> Abqr 0
+[    0.012677] FENG: CKZ 0 -> NCVP 0k31 -> Abqr 0
+[    0.012677] FENG: CKZ 0 -> NCVP 0k32 -> Abqr 0
+[    0.012678] FENG: CKZ 0 -> NCVP 0k33 -> Abqr 0
+[    0.012678] FENG: CKZ 0 -> NCVP 0k34 -> Abqr 0
+[    0.012679] FENG: CKZ 0 -> NCVP 0k35 -> Abqr 0
+[    0.012679] FENG: CKZ 0 -> NCVP 0k36 -> Abqr 0
+[    0.012679] FENG: CKZ 0 -> NCVP 0k37 -> Abqr 0
+[    0.012680] FENG: CKZ 0 -> NCVP 0k38 -> Abqr 0
+[    0.012680] FENG: CKZ 0 -> NCVP 0k39 -> Abqr 0
+[    0.012680] FENG: CKZ 0 -> NCVP 0k3n -> Abqr 0
+[    0.012681] FENG: CKZ 0 -> NCVP 0k3o -> Abqr 0
+[    0.012681] FENG: CKZ 0 -> NCVP 0k3p -> Abqr 0
+[    0.012682] FENG: CKZ 0 -> NCVP 0k3q -> Abqr 0
+[    0.012682] FENG: CKZ 0 -> NCVP 0k3r -> Abqr 0
+[    0.012682] FENG: CKZ 0 -> NCVP 0k3s -> Abqr 0
+[    0.012683] FENG: CKZ 0 -> NCVP 0k40 -> Abqr 0
+[    0.012683] FENG: CKZ 0 -> NCVP 0k41 -> Abqr 0
+[    0.012683] FENG: CKZ 0 -> NCVP 0k42 -> Abqr 0
+[    0.012684] FENG: CKZ 0 -> NCVP 0k43 -> Abqr 0
+[    0.012684] FENG: CKZ 0 -> NCVP 0k44 -> Abqr 0
+[    0.012684] FENG: CKZ 0 -> NCVP 0k45 -> Abqr 0
+[    0.012685] FENG: CKZ 0 -> NCVP 0k46 -> Abqr 0
+[    0.012685] FENG: CKZ 0 -> NCVP 0k47 -> Abqr 0
+[    0.012686] FENG: CKZ 0 -> NCVP 0k48 -> Abqr 0
+[    0.012686] FENG: CKZ 0 -> NCVP 0k49 -> Abqr 0
+[    0.012686] FENG: CKZ 0 -> NCVP 0k4n -> Abqr 0
+[    0.012687] FENG: CKZ 0 -> NCVP 0k4o -> Abqr 0
+[    0.012687] FENG: CKZ 0 -> NCVP 0k4p -> Abqr 0
+[    0.012687] FENG: CKZ 0 -> NCVP 0k4q -> Abqr 0
+[    0.012688] FENG: CKZ 0 -> NCVP 0k4r -> Abqr 0
+[    0.012688] FENG: CKZ 0 -> NCVP 0k4s -> Abqr 0
+[    0.012688] FENG: CKZ 0 -> NCVP 0k50 -> Abqr 0
+[    0.012689] FENG: CKZ 0 -> NCVP 0k51 -> Abqr 0
+[    0.012689] FENG: CKZ 0 -> NCVP 0k52 -> Abqr 0
+[    0.012690] FENG: CKZ 0 -> NCVP 0k53 -> Abqr 0
+[    0.012690] FENG: CKZ 0 -> NCVP 0k54 -> Abqr 0
+[    0.012690] FENG: CKZ 0 -> NCVP 0k55 -> Abqr 0
+[    0.012691] FENG: CKZ 0 -> NCVP 0k56 -> Abqr 0
+[    0.012691] FENG: CKZ 0 -> NCVP 0k57 -> Abqr 0
+[    0.012691] FENG: CKZ 0 -> NCVP 0k58 -> Abqr 0
+[    0.012692] FENG: CKZ 0 -> NCVP 0k59 -> Abqr 0
+[    0.012692] FENG: CKZ 0 -> NCVP 0k5n -> Abqr 0
+[    0.012693] FENG: CKZ 0 -> NCVP 0k5o -> Abqr 0
+[    0.012693] FENG: CKZ 0 -> NCVP 0k5p -> Abqr 0
+[    0.012693] FENG: CKZ 0 -> NCVP 0k5q -> Abqr 0
+[    0.012694] FENG: CKZ 0 -> NCVP 0k5r -> Abqr 0
+[    0.012694] FENG: CKZ 0 -> NCVP 0k5s -> Abqr 0
+[    0.012694] FENG: CKZ 0 -> NCVP 0k60 -> Abqr 0
+[    0.012695] FENG: CKZ 0 -> NCVP 0k61 -> Abqr 0
+[    0.012695] FENG: CKZ 0 -> NCVP 0k62 -> Abqr 0
+[    0.012696] FENG: CKZ 0 -> NCVP 0k63 -> Abqr 0
+[    0.012696] FENG: CKZ 0 -> NCVP 0k64 -> Abqr 0
+[    0.012696] FENG: CKZ 0 -> NCVP 0k65 -> Abqr 0
+[    0.012697] FENG: CKZ 0 -> NCVP 0k66 -> Abqr 0
+[    0.012697] FENG: CKZ 0 -> NCVP 0k67 -> Abqr 0
+[    0.012697] FENG: CKZ 0 -> NCVP 0k68 -> Abqr 0
+[    0.012698] FENG: CKZ 0 -> NCVP 0k69 -> Abqr 0
+[    0.012698] FENG: CKZ 0 -> NCVP 0k6n -> Abqr 0
+[    0.012698] FENG: CKZ 0 -> NCVP 0k6o -> Abqr 0
+[    0.012699] FENG: CKZ 0 -> NCVP 0k6p -> Abqr 0
+[    0.012699] FENG: CKZ 0 -> NCVP 0k6q -> Abqr 0
+[    0.012700] FENG: CKZ 0 -> NCVP 0k6r -> Abqr 0
+[    0.012700] FENG: CKZ 0 -> NCVP 0k6s -> Abqr 0
+[    0.012700] FENG: CKZ 0 -> NCVP 0k70 -> Abqr 0
+[    0.012701] FENG: CKZ 0 -> NCVP 0k71 -> Abqr 0
+[    0.012701] FENG: CKZ 0 -> NCVP 0k72 -> Abqr 0
+[    0.012701] FENG: CKZ 0 -> NCVP 0k73 -> Abqr 0
+[    0.012702] FENG: CKZ 0 -> NCVP 0k74 -> Abqr 0
+[    0.012702] FENG: CKZ 0 -> NCVP 0k75 -> Abqr 0
+[    0.012702] FENG: CKZ 0 -> NCVP 0k76 -> Abqr 0
+[    0.012703] FENG: CKZ 0 -> NCVP 0k77 -> Abqr 0
+[    0.012703] FENG: CKZ 0 -> NCVP 0k78 -> Abqr 0
+[    0.012704] FENG: CKZ 0 -> NCVP 0k79 -> Abqr 0
+[    0.012704] FENG: CKZ 0 -> NCVP 0k7n -> Abqr 0
+[    0.012704] FENG: CKZ 0 -> NCVP 0k7o -> Abqr 0
+[    0.012705] FENG: CKZ 0 -> NCVP 0k7p -> Abqr 0
+[    0.012705] FENG: CKZ 0 -> NCVP 0k7q -> Abqr 0
+[    0.012705] FENG: CKZ 0 -> NCVP 0k7r -> Abqr 0
+[    0.012706] FENG: CKZ 0 -> NCVP 0k7s -> Abqr 0
+[    0.012708] NPCV: FENG: Abqr 0 CKZ 0 [zrz 0k00000000-0k0009ssss]
+[    0.012709] NPCV: FENG: Abqr 0 CKZ 0 [zrz 0k00100000-0k7sssssss]
+[    0.012711] AHZN: Abqr 0 [zrz 0k00000000-0k0009ssss] + [zrz 0k00100000-0k7sssssss] -> [zrz 0k00000000-0k7sssssss]
+[    0.012715] ABQR_QNGN(0) nyybpngrq [zrz 0k7ssso000-0k7sssssss]
+[    0.012732] Mbar enatrf:
+[    0.012732]   QZN      [zrz 0k0000000000001000-0k0000000000ssssss]
+[    0.012733]   QZN32    [zrz 0k0000000001000000-0k000000007sssssss]
+[    0.012734]   Abezny   rzcgl
+[    0.012735]   Qrivpr   rzcgl
+[    0.012735] Zbinoyr mbar fgneg sbe rnpu abqr
+[    0.012736] Rneyl zrzbel abqr enatrf
+[    0.012737]   abqr   0: [zrz 0k0000000000001000-0k000000000009qsss]
+[    0.012737]   abqr   0: [zrz 0k0000000000100000-0k000000007srqssss]
+[    0.012737]   abqr   0: [zrz 0k000000007ss00000-0k000000007sssssss]
+[    0.012740] Erfreirq ohg haninvynoyr: 99 cntrf
+[    0.012741] Vavgzrz frghc abqr 0 [zrz 0k0000000000001000-0k000000007sssssss]
+[    0.012742] Ba abqr 0 gbgnycntrf: 524157
+[    0.012743]   QZN mbar: 64 cntrf hfrq sbe zrzznc
+[    0.012743]   QZN mbar: 21 cntrf erfreirq
+[    0.012744]   QZN mbar: 3997 cntrf, YVSB ongpu:0
+[    0.012816]   QZN32 mbar: 8128 cntrf hfrq sbe zrzznc
+[    0.012817]   QZN32 mbar: 520160 cntrf, YVSB ongpu:63
+[    0.026172] NPCV: CZ-Gvzre VB Cbeg: 0k1008
+[    0.026175] NPCV: Ybpny NCVP nqqerff 0ksrr00000
+[    0.026179] flfgrz NCVP bayl pna hfr culfvpny syng
+[    0.026190] NPCV: YNCVP_AZV (npcv_vq[0k00] uvtu rqtr yvag[0k1])
+[    0.026191] NPCV: YNCVP_AZV (npcv_vq[0k01] uvtu rqtr yvag[0k1])
+[    0.026191] NPCV: YNCVP_AZV (npcv_vq[0k02] uvtu rqtr yvag[0k1])
+[    0.026191] NPCV: YNCVP_AZV (npcv_vq[0k03] uvtu rqtr yvag[0k1])
+[    0.026192] NPCV: YNCVP_AZV (npcv_vq[0k04] uvtu rqtr yvag[0k1])
+[    0.026192] NPCV: YNCVP_AZV (npcv_vq[0k05] uvtu rqtr yvag[0k1])
+[    0.026192] NPCV: YNCVP_AZV (npcv_vq[0k06] uvtu rqtr yvag[0k1])
+[    0.026193] NPCV: YNCVP_AZV (npcv_vq[0k07] uvtu rqtr yvag[0k1])
+[    0.026193] NPCV: YNCVP_AZV (npcv_vq[0k08] uvtu rqtr yvag[0k1])
+[    0.026194] NPCV: YNCVP_AZV (npcv_vq[0k09] uvtu rqtr yvag[0k1])
+[    0.026194] NPCV: YNCVP_AZV (npcv_vq[0k0n] uvtu rqtr yvag[0k1])
+[    0.026194] NPCV: YNCVP_AZV (npcv_vq[0k0o] uvtu rqtr yvag[0k1])
+[    0.026195] NPCV: YNCVP_AZV (npcv_vq[0k0p] uvtu rqtr yvag[0k1])
+[    0.026195] NPCV: YNCVP_AZV (npcv_vq[0k0q] uvtu rqtr yvag[0k1])
+[    0.026196] NPCV: YNCVP_AZV (npcv_vq[0k0r] uvtu rqtr yvag[0k1])
+[    0.026196] NPCV: YNCVP_AZV (npcv_vq[0k0s] uvtu rqtr yvag[0k1])
+[    0.026196] NPCV: YNCVP_AZV (npcv_vq[0k10] uvtu rqtr yvag[0k1])
+[    0.026197] NPCV: YNCVP_AZV (npcv_vq[0k11] uvtu rqtr yvag[0k1])
+[    0.026197] NPCV: YNCVP_AZV (npcv_vq[0k12] uvtu rqtr yvag[0k1])
+[    0.026198] NPCV: YNCVP_AZV (npcv_vq[0k13] uvtu rqtr yvag[0k1])
+[    0.026198] NPCV: YNCVP_AZV (npcv_vq[0k14] uvtu rqtr yvag[0k1])
+[    0.026198] NPCV: YNCVP_AZV (npcv_vq[0k15] uvtu rqtr yvag[0k1])
+[    0.026199] NPCV: YNCVP_AZV (npcv_vq[0k16] uvtu rqtr yvag[0k1])
+[    0.026199] NPCV: YNCVP_AZV (npcv_vq[0k17] uvtu rqtr yvag[0k1])
+[    0.026199] NPCV: YNCVP_AZV (npcv_vq[0k18] uvtu rqtr yvag[0k1])
+[    0.026200] NPCV: YNCVP_AZV (npcv_vq[0k19] uvtu rqtr yvag[0k1])
+[    0.026200] NPCV: YNCVP_AZV (npcv_vq[0k1n] uvtu rqtr yvag[0k1])
+[    0.026201] NPCV: YNCVP_AZV (npcv_vq[0k1o] uvtu rqtr yvag[0k1])
+[    0.026201] NPCV: YNCVP_AZV (npcv_vq[0k1p] uvtu rqtr yvag[0k1])
+[    0.026201] NPCV: YNCVP_AZV (npcv_vq[0k1q] uvtu rqtr yvag[0k1])
+[    0.026202] NPCV: YNCVP_AZV (npcv_vq[0k1r] uvtu rqtr yvag[0k1])
+[    0.026202] NPCV: YNCVP_AZV (npcv_vq[0k1s] uvtu rqtr yvag[0k1])
+[    0.026203] NPCV: YNCVP_AZV (npcv_vq[0k20] uvtu rqtr yvag[0k1])
+[    0.026203] NPCV: YNCVP_AZV (npcv_vq[0k21] uvtu rqtr yvag[0k1])
+[    0.026203] NPCV: YNCVP_AZV (npcv_vq[0k22] uvtu rqtr yvag[0k1])
+[    0.026204] NPCV: YNCVP_AZV (npcv_vq[0k23] uvtu rqtr yvag[0k1])
+[    0.026204] NPCV: YNCVP_AZV (npcv_vq[0k24] uvtu rqtr yvag[0k1])
+[    0.026204] NPCV: YNCVP_AZV (npcv_vq[0k25] uvtu rqtr yvag[0k1])
+[    0.026205] NPCV: YNCVP_AZV (npcv_vq[0k26] uvtu rqtr yvag[0k1])
+[    0.026205] NPCV: YNCVP_AZV (npcv_vq[0k27] uvtu rqtr yvag[0k1])
+[    0.026206] NPCV: YNCVP_AZV (npcv_vq[0k28] uvtu rqtr yvag[0k1])
+[    0.026206] NPCV: YNCVP_AZV (npcv_vq[0k29] uvtu rqtr yvag[0k1])
+[    0.026206] NPCV: YNCVP_AZV (npcv_vq[0k2n] uvtu rqtr yvag[0k1])
+[    0.026207] NPCV: YNCVP_AZV (npcv_vq[0k2o] uvtu rqtr yvag[0k1])
+[    0.026207] NPCV: YNCVP_AZV (npcv_vq[0k2p] uvtu rqtr yvag[0k1])
+[    0.026208] NPCV: YNCVP_AZV (npcv_vq[0k2q] uvtu rqtr yvag[0k1])
+[    0.026208] NPCV: YNCVP_AZV (npcv_vq[0k2r] uvtu rqtr yvag[0k1])
+[    0.026208] NPCV: YNCVP_AZV (npcv_vq[0k2s] uvtu rqtr yvag[0k1])
+[    0.026209] NPCV: YNCVP_AZV (npcv_vq[0k30] uvtu rqtr yvag[0k1])
+[    0.026209] NPCV: YNCVP_AZV (npcv_vq[0k31] uvtu rqtr yvag[0k1])
+[    0.026209] NPCV: YNCVP_AZV (npcv_vq[0k32] uvtu rqtr yvag[0k1])
+[    0.026210] NPCV: YNCVP_AZV (npcv_vq[0k33] uvtu rqtr yvag[0k1])
+[    0.026210] NPCV: YNCVP_AZV (npcv_vq[0k34] uvtu rqtr yvag[0k1])
+[    0.026211] NPCV: YNCVP_AZV (npcv_vq[0k35] uvtu rqtr yvag[0k1])
+[    0.026211] NPCV: YNCVP_AZV (npcv_vq[0k36] uvtu rqtr yvag[0k1])
+[    0.026211] NPCV: YNCVP_AZV (npcv_vq[0k37] uvtu rqtr yvag[0k1])
+[    0.026212] NPCV: YNCVP_AZV (npcv_vq[0k38] uvtu rqtr yvag[0k1])
+[    0.026212] NPCV: YNCVP_AZV (npcv_vq[0k39] uvtu rqtr yvag[0k1])
+[    0.026213] NPCV: YNCVP_AZV (npcv_vq[0k3n] uvtu rqtr yvag[0k1])
+[    0.026213] NPCV: YNCVP_AZV (npcv_vq[0k3o] uvtu rqtr yvag[0k1])
+[    0.026213] NPCV: YNCVP_AZV (npcv_vq[0k3p] uvtu rqtr yvag[0k1])
+[    0.026214] NPCV: YNCVP_AZV (npcv_vq[0k3q] uvtu rqtr yvag[0k1])
+[    0.026214] NPCV: YNCVP_AZV (npcv_vq[0k3r] uvtu rqtr yvag[0k1])
+[    0.026214] NPCV: YNCVP_AZV (npcv_vq[0k3s] uvtu rqtr yvag[0k1])
+[    0.026215] NPCV: YNCVP_AZV (npcv_vq[0k40] uvtu rqtr yvag[0k1])
+[    0.026215] NPCV: YNCVP_AZV (npcv_vq[0k41] uvtu rqtr yvag[0k1])
+[    0.026216] NPCV: YNCVP_AZV (npcv_vq[0k42] uvtu rqtr yvag[0k1])
+[    0.026216] NPCV: YNCVP_AZV (npcv_vq[0k43] uvtu rqtr yvag[0k1])
+[    0.026216] NPCV: YNCVP_AZV (npcv_vq[0k44] uvtu rqtr yvag[0k1])
+[    0.026217] NPCV: YNCVP_AZV (npcv_vq[0k45] uvtu rqtr yvag[0k1])
+[    0.026217] NPCV: YNCVP_AZV (npcv_vq[0k46] uvtu rqtr yvag[0k1])
+[    0.026217] NPCV: YNCVP_AZV (npcv_vq[0k47] uvtu rqtr yvag[0k1])
+[    0.026218] NPCV: YNCVP_AZV (npcv_vq[0k48] uvtu rqtr yvag[0k1])
+[    0.026218] NPCV: YNCVP_AZV (npcv_vq[0k49] uvtu rqtr yvag[0k1])
+[    0.026219] NPCV: YNCVP_AZV (npcv_vq[0k4n] uvtu rqtr yvag[0k1])
+[    0.026219] NPCV: YNCVP_AZV (npcv_vq[0k4o] uvtu rqtr yvag[0k1])
+[    0.026219] NPCV: YNCVP_AZV (npcv_vq[0k4p] uvtu rqtr yvag[0k1])
+[    0.026220] NPCV: YNCVP_AZV (npcv_vq[0k4q] uvtu rqtr yvag[0k1])
+[    0.026220] NPCV: YNCVP_AZV (npcv_vq[0k4r] uvtu rqtr yvag[0k1])
+[    0.026221] NPCV: YNCVP_AZV (npcv_vq[0k4s] uvtu rqtr yvag[0k1])
+[    0.026221] NPCV: YNCVP_AZV (npcv_vq[0k50] uvtu rqtr yvag[0k1])
+[    0.026221] NPCV: YNCVP_AZV (npcv_vq[0k51] uvtu rqtr yvag[0k1])
+[    0.026222] NPCV: YNCVP_AZV (npcv_vq[0k52] uvtu rqtr yvag[0k1])
+[    0.026222] NPCV: YNCVP_AZV (npcv_vq[0k53] uvtu rqtr yvag[0k1])
+[    0.026222] NPCV: YNCVP_AZV (npcv_vq[0k54] uvtu rqtr yvag[0k1])
+[    0.026223] NPCV: YNCVP_AZV (npcv_vq[0k55] uvtu rqtr yvag[0k1])
+[    0.026223] NPCV: YNCVP_AZV (npcv_vq[0k56] uvtu rqtr yvag[0k1])
+[    0.026224] NPCV: YNCVP_AZV (npcv_vq[0k57] uvtu rqtr yvag[0k1])
+[    0.026224] NPCV: YNCVP_AZV (npcv_vq[0k58] uvtu rqtr yvag[0k1])
+[    0.026224] NPCV: YNCVP_AZV (npcv_vq[0k59] uvtu rqtr yvag[0k1])
+[    0.026225] NPCV: YNCVP_AZV (npcv_vq[0k5n] uvtu rqtr yvag[0k1])
+[    0.026225] NPCV: YNCVP_AZV (npcv_vq[0k5o] uvtu rqtr yvag[0k1])
+[    0.026225] NPCV: YNCVP_AZV (npcv_vq[0k5p] uvtu rqtr yvag[0k1])
+[    0.026226] NPCV: YNCVP_AZV (npcv_vq[0k5q] uvtu rqtr yvag[0k1])
+[    0.026226] NPCV: YNCVP_AZV (npcv_vq[0k5r] uvtu rqtr yvag[0k1])
+[    0.026227] NPCV: YNCVP_AZV (npcv_vq[0k5s] uvtu rqtr yvag[0k1])
+[    0.026227] NPCV: YNCVP_AZV (npcv_vq[0k60] uvtu rqtr yvag[0k1])
+[    0.026227] NPCV: YNCVP_AZV (npcv_vq[0k61] uvtu rqtr yvag[0k1])
+[    0.026228] NPCV: YNCVP_AZV (npcv_vq[0k62] uvtu rqtr yvag[0k1])
+[    0.026228] NPCV: YNCVP_AZV (npcv_vq[0k63] uvtu rqtr yvag[0k1])
+[    0.026229] NPCV: YNCVP_AZV (npcv_vq[0k64] uvtu rqtr yvag[0k1])
+[    0.026229] NPCV: YNCVP_AZV (npcv_vq[0k65] uvtu rqtr yvag[0k1])
+[    0.026229] NPCV: YNCVP_AZV (npcv_vq[0k66] uvtu rqtr yvag[0k1])
+[    0.026230] NPCV: YNCVP_AZV (npcv_vq[0k67] uvtu rqtr yvag[0k1])
+[    0.026230] NPCV: YNCVP_AZV (npcv_vq[0k68] uvtu rqtr yvag[0k1])
+[    0.026230] NPCV: YNCVP_AZV (npcv_vq[0k69] uvtu rqtr yvag[0k1])
+[    0.026231] NPCV: YNCVP_AZV (npcv_vq[0k6n] uvtu rqtr yvag[0k1])
+[    0.026231] NPCV: YNCVP_AZV (npcv_vq[0k6o] uvtu rqtr yvag[0k1])
+[    0.026232] NPCV: YNCVP_AZV (npcv_vq[0k6p] uvtu rqtr yvag[0k1])
+[    0.026232] NPCV: YNCVP_AZV (npcv_vq[0k6q] uvtu rqtr yvag[0k1])
+[    0.026232] NPCV: YNCVP_AZV (npcv_vq[0k6r] uvtu rqtr yvag[0k1])
+[    0.026233] NPCV: YNCVP_AZV (npcv_vq[0k6s] uvtu rqtr yvag[0k1])
+[    0.026233] NPCV: YNCVP_AZV (npcv_vq[0k70] uvtu rqtr yvag[0k1])
+[    0.026233] NPCV: YNCVP_AZV (npcv_vq[0k71] uvtu rqtr yvag[0k1])
+[    0.026234] NPCV: YNCVP_AZV (npcv_vq[0k72] uvtu rqtr yvag[0k1])
+[    0.026234] NPCV: YNCVP_AZV (npcv_vq[0k73] uvtu rqtr yvag[0k1])
+[    0.026235] NPCV: YNCVP_AZV (npcv_vq[0k74] uvtu rqtr yvag[0k1])
+[    0.026235] NPCV: YNCVP_AZV (npcv_vq[0k75] uvtu rqtr yvag[0k1])
+[    0.026235] NPCV: YNCVP_AZV (npcv_vq[0k76] uvtu rqtr yvag[0k1])
+[    0.026236] NPCV: YNCVP_AZV (npcv_vq[0k77] uvtu rqtr yvag[0k1])
+[    0.026236] NPCV: YNCVP_AZV (npcv_vq[0k78] uvtu rqtr yvag[0k1])
+[    0.026237] NPCV: YNCVP_AZV (npcv_vq[0k79] uvtu rqtr yvag[0k1])
+[    0.026237] NPCV: YNCVP_AZV (npcv_vq[0k7n] uvtu rqtr yvag[0k1])
+[    0.026237] NPCV: YNCVP_AZV (npcv_vq[0k7o] uvtu rqtr yvag[0k1])
+[    0.026238] NPCV: YNCVP_AZV (npcv_vq[0k7p] uvtu rqtr yvag[0k1])
+[    0.026238] NPCV: YNCVP_AZV (npcv_vq[0k7q] uvtu rqtr yvag[0k1])
+[    0.026238] NPCV: YNCVP_AZV (npcv_vq[0k7r] uvtu rqtr yvag[0k1])
+[    0.026239] NPCV: YNCVP_AZV (npcv_vq[0k7s] uvtu rqtr yvag[0k1])
+[    0.026283] VBNCVP[0]: ncvp_vq 128, irefvba 32, nqqerff 0ksrp00000, TFV 0-23
+[    0.026287] NPCV: VAG_FEP_BIE (ohf 0 ohf_ved 0 tybony_ved 2 uvtu rqtr)
+[    0.026289] NPCV: VED0 hfrq ol bireevqr.
+[    0.026290] NPCV: VED9 hfrq ol bireevqr.
+[    0.026293] Hfvat NPCV (ZNQG) sbe FZC pbasvthengvba vasbezngvba
+[    0.026295] NPCV: UCRG vq: 0k8086ns01 onfr: 0ksrq00000
+[    0.026306] fzcobbg: Nyybjvat 128 PCHf, 124 ubgcyht PCHf
+[    0.026319] CZ: Ertvfgrerq abfnir zrzbel: [zrz 0k00000000-0k00000sss]
+[    0.026320] CZ: Ertvfgrerq abfnir zrzbel: [zrz 0k0009r000-0k0009rsss]
+[    0.026320] CZ: Ertvfgrerq abfnir zrzbel: [zrz 0k0009s000-0k0009ssss]
+[    0.026321] CZ: Ertvfgrerq abfnir zrzbel: [zrz 0k000n0000-0k000qosss]
+[    0.026321] CZ: Ertvfgrerq abfnir zrzbel: [zrz 0k000qp000-0k000sssss]
+[    0.026322] CZ: Ertvfgrerq abfnir zrzbel: [zrz 0k7srr0000-0k7srsrsss]
+[    0.026322] CZ: Ertvfgrerq abfnir zrzbel: [zrz 0k7srss000-0k7srsssss]
+[    0.026324] [zrz 0k80000000-0krsssssss] ninvynoyr sbe CPV qrivprf
+[    0.026325] Obbgvat cneniveghnyvmrq xreary ba IZjner ulcreivfbe
+[    0.026327] pybpxfbhepr: ersvarq-wvssvrf: znfx: 0kssssssss znk_plpyrf: 0kssssssss, znk_vqyr_af: 7645519600211568 af
+[    0.109123] enaqbz: trg_enaqbz_olgrf pnyyrq sebz fgneg_xreary+0k93/0k531 jvgu peat_vavg=0
+[    0.109130] frghc_crepch: AE_PCHF:512 ae_pchznfx_ovgf:512 ae_pch_vqf:128 ae_abqr_vqf:1
+[    0.350379] crepch: Rzorqqrq 44 cntrf/pch @(____cgeiny____) f143192 e8192 q28840 h262144
+[    0.350390] cpch-nyybp: f143192 e8192 q28840 h262144 nyybp=1*2097152
+[    0.350391] cpch-nyybp: [0] 000 001 002 003 004 005 006 007 
+[    0.350394] cpch-nyybp: [0] 008 009 010 011 012 013 014 015 
+[    0.350397] cpch-nyybp: [0] 016 017 018 019 020 021 022 023 
+[    0.350400] cpch-nyybp: [0] 024 025 026 027 028 029 030 031 
+[    0.350403] cpch-nyybp: [0] 032 033 034 035 036 037 038 039 
+[    0.350405] cpch-nyybp: [0] 040 041 042 043 044 045 046 047 
+[    0.350408] cpch-nyybp: [0] 048 049 050 051 052 053 054 055 
+[    0.350411] cpch-nyybp: [0] 056 057 058 059 060 061 062 063 
+[    0.350413] cpch-nyybp: [0] 064 065 066 067 068 069 070 071 
+[    0.350416] cpch-nyybp: [0] 072 073 074 075 076 077 078 079 
+[    0.350419] cpch-nyybp: [0] 080 081 082 083 084 085 086 087 
+[    0.350422] cpch-nyybp: [0] 088 089 090 091 092 093 094 095 
+[    0.350424] cpch-nyybp: [0] 096 097 098 099 100 101 102 103 
+[    0.350427] cpch-nyybp: [0] 104 105 106 107 108 109 110 111 
+[    0.350430] cpch-nyybp: [0] 112 113 114 115 116 117 118 119 
+[    0.350432] cpch-nyybp: [0] 120 121 122 123 124 125 126 127 
+[    0.350477] Ohvyg 1 mbaryvfgf, zbovyvgl tebhcvat ba.  Gbgny cntrf: 515944
+[    0.350478] Cbyvpl mbar: QZN32
+[    0.350480] Xreary pbzznaq yvar: OBBG_VZNTR=/obbg/izyvahm-4.19.0-xnyv4-nzq64 ebbg=/qri/fqn1 eb vavgeq=/vafgnyy/vavgeq.tm dhvrg
+[    0.350529] ybt_ohs_yra vaqvivqhny znk pch pbagevohgvba: 4096 olgrf
+[    0.350529] ybt_ohs_yra gbgny pch_rkgen pbagevohgvbaf: 520192 olgrf
+[    0.350530] ybt_ohs_yra zva fvmr: 131072 olgrf
+[    0.358555] ybt_ohs_yra: 1048576 olgrf
+[    0.358557] rneyl ybt ohs serr: 106220(81%)
+[    0.360676] Pnytnel: qrgrpgvat Pnytnel ivn OVBF ROQN nern
+[    0.360677] Pnytnel: Hanoyr gb ybpngr Evb Tenaqr gnoyr va ROQN - onvyvat!
+[    0.365795] Zrzbel: 1973296X/2096628X ninvynoyr (10252X xreary pbqr, 1240X ejqngn, 3272X ebqngn, 1576X vavg, 2308X off, 123332X erfreirq, 0X pzn-erfreirq)
+[    0.367461] FYHO: UJnyvta=64, Beqre=0-3, ZvaBowrpgf=0, PCHf=128, Abqrf=1
+[    0.367538] Xreary/Hfre cntr gnoyrf vfbyngvba: ranoyrq
+[    0.367640] sgenpr: nyybpngvat 31773 ragevrf va 125 cntrf
+[    0.384487] eph: Uvrenepuvpny EPH vzcyrzragngvba.
+[    0.384488] eph: 	EPH erfgevpgvat PCHf sebz AE_PCHF=512 gb ae_pch_vqf=128.
+[    0.384489] eph: Nqwhfgvat trbzrgel sbe eph_snabhg_yrns=16, ae_pch_vqf=128
+[    0.388173] AE_VEDF: 33024, ae_vedf: 1448, cernyybpngrq vedf: 16
+[    0.391507] Pbafbyr: pbybhe ITN+ 80k25
+[    0.391515] pbafbyr [ggl0] ranoyrq
+[    0.391897] NPCV: Pber erivfvba 20180810
+[    0.393671] pybpxfbhepr: ucrg: znfx: 0kssssssss znk_plpyrf: 0kssssssss, znk_vqyr_af: 133484882848 af
+[    0.393784] ucrg pybpxrirag ertvfgrerq
+[    0.393801] NCVP: Fjvgpu gb flzzrgevp V/B zbqr frghc
+[    0.394157] k2ncvp ranoyrq
+[    0.394398] Fjvgpurq NCVP ebhgvat gb culfvpny k2ncvp.
+[    0.395476] ..GVZRE: irpgbe=0k30 ncvp1=0 cva1=2 ncvp2=-1 cva2=-1
+[    0.395504] pybpxfbhepr: gfp-rneyl: znfx: 0kssssssssssssssss znk_plpyrf: 0k26rn965p7rq, znk_vqyr_af: 440795235155 af
+[    0.395521] Pnyvoengvat qrynl ybbc (fxvccrq) cerfrg inyhr.. 5399.64 ObtbZVCF (ycw=10799288)
+[    0.395523] cvq_znk: qrsnhyg: 131072 zvavzhz: 1024
+[    0.395763] Frphevgl Senzrjbex vavgvnyvmrq
+[    0.395764] Lnzn: qvfnoyrq ol qrsnhyg; ranoyr jvgu flfpgy xreary.lnzn.*
+[    0.410330] NccNezbe: NccNezbe vavgvnyvmrq
+[    0.433751] Qragel pnpur unfu gnoyr ragevrf: 262144 (beqre: 9, 2097152 olgrf)
+[    0.441955] Vabqr-pnpur unfu gnoyr ragevrf: 131072 (beqre: 8, 1048576 olgrf)
+[    0.442258] Zbhag-pnpur unfu gnoyr ragevrf: 4096 (beqre: 3, 32768 olgrf)
+[    0.442545] Zbhagcbvag-pnpur unfu gnoyr ragevrf: 4096 (beqre: 3, 32768 olgrf)
+[    0.443829] Qvfnoyrq snfg fgevat bcrengvbaf
+[    0.443850] zpr: PCH fhccbegf 8 ZPR onaxf
+[    0.443876] Ynfg yriry vGYO ragevrf: 4XO 64, 2ZO 8, 4ZO 8
+[    0.443877] Ynfg yriry qGYO ragevrf: 4XO 64, 2ZO 0, 4ZO 0, 1TO 4
+[    0.443878] Fcrpger I2 : Zvgvtngvba: Shyy trarevp ergcbyvar
+[    0.443879] Fcrpger I2 : Fcrpger i2 / FcrpgerEFO zvgvtngvba: Svyyvat EFO ba pbagrkg fjvgpu
+[    0.443879] Fcrpger I2 : Ranoyvat Erfgevpgrq Fcrphyngvba sbe svezjner pnyyf
+[    0.443888] Fcrpger I2 : zvgvtngvba: Ranoyvat pbaqvgvbany Vaqverpg Oenapu Cerqvpgvba Oneevre
+[    0.443889] Fcrphyngvir Fgber Olcnff: Zvgvtngvba: Fcrphyngvir Fgber Olcnff qvfnoyrq ivn cepgy naq frppbzc
+[    0.444096] Serrvat FZC nygreangvirf zrzbel: 24X
+[    0.449253] GFP qrnqyvar gvzre ranoyrq
+[    0.449280] fzcobbg: PCH0: Vagry(E) Pber(GZ) v5-5257H PCH @ 2.70TUm (snzvyl: 0k6, zbqry: 0k3q, fgrccvat: 0k4)
+[    0.450251] Cresbeznapr Riragf: Oebnqjryy riragf, pber CZH qevire.
+[    0.450270] pber: PCHVQ znexrq rirag: 'pch plpyrf' haninvynoyr
+[    0.450271] pber: PCHVQ znexrq rirag: 'vafgehpgvbaf' haninvynoyr
+[    0.450271] pber: PCHVQ znexrq rirag: 'ohf plpyrf' haninvynoyr
+[    0.450271] pber: PCHVQ znexrq rirag: 'pnpur ersreraprf' haninvynoyr
+[    0.450272] pber: PCHVQ znexrq rirag: 'pnpur zvffrf' haninvynoyr
+[    0.450272] pber: PCHVQ znexrq rirag: 'oenapu vafgehpgvbaf' haninvynoyr
+[    0.450272] pber: PCHVQ znexrq rirag: 'oenapu zvffrf' haninvynoyr
+[    0.450275] ... irefvba:                1
+[    0.450275] ... ovg jvqgu:              48
+[    0.450276] ... trarevp ertvfgref:      4
+[    0.450276] ... inyhr znfx:             0000ssssssssssss
+[    0.450277] ... znk crevbq:             000000007sssssss
+[    0.450277] ... svkrq-checbfr riragf:   0
+[    0.450278] ... rirag znfx:             000000000000000s
+[    0.450704] eph: Uvrenepuvpny FEPH vzcyrzragngvba.
+[    0.451506] enaqbz: peat qbar (gehfgvat PCH'f znahsnpghere)
+[    0.451506] AZV jngpuqbt: Cres AZV jngpuqbt creznaragyl qvfnoyrq
+[    0.475864] fzc: Oevatvat hc frpbaqnel PCHf ...
+[    0.477133] k86: Obbgvat FZC pbasvthengvba:
+[    0.477134] .... abqr  #0, PCHf:          #1
+[    0.010933] Qvfnoyrq snfg fgevat bcrengvbaf
+[    0.480047]    #2
+[    0.010933] Qvfnoyrq snfg fgevat bcrengvbaf
+[    0.481459]    #3
+[    0.010933] Qvfnoyrq snfg fgevat bcrengvbaf
+[    0.484348] fzc: Oebhtug hc 1 abqr, 4 PCHf
+[    0.484348] fzcobbg: Znk ybtvpny cnpxntrf: 64
+[    0.484348] fzcobbg: Gbgny bs 4 cebprffbef npgvingrq (21598.57 ObtbZVCF)
+[    0.487550] qrigzcsf: vavgvnyvmrq
+[    0.487637] k86/zz: Zrzbel oybpx fvmr: 128ZO
+[    0.488532] CZ: Ertvfgrevat NPCV AIF ertvba [zrz 0k7srss000-0k7srsssss] (4096 olgrf)
+[    0.488532] pybpxfbhepr: wvssvrf: znfx: 0kssssssss znk_plpyrf: 0kssssssss, znk_vqyr_af: 7645041785100000 af
+[    0.488532] shgrk unfu gnoyr ragevrf: 32768 (beqre: 9, 2097152 olgrf)
+[    0.508328] cvapgey pber: vavgvnyvmrq cvapgey fhoflfgrz
+[    0.509647] ARG: Ertvfgrerq cebgbpby snzvyl 16
+[    0.510198] nhqvg: vavgvnyvmvat argyvax fhoflf (qvfnoyrq)
+[    0.510221] nhqvg: glcr=2000 nhqvg(1596198001.112:1): fgngr=vavgvnyvmrq nhqvg_ranoyrq=0 erf=1
+[    0.512213] pchvqyr: hfvat tbireabe ynqqre
+[    0.512213] pchvqyr: hfvat tbireabe zrah
+[    0.512213] Fvzcyr Obbg Synt ng 0k36 frg gb 0k80
+[    0.512213] NPCV: ohf glcr CPV ertvfgrerq
+[    0.512213] npcvcuc: NPCV Ubg Cyht CPV Pbagebyyre Qevire irefvba: 0.5
+[    0.513042] CPV: ZZPBASVT sbe qbznva 0000 [ohf 00-7s] ng [zrz 0ks0000000-0ks7ssssss] (onfr 0ks0000000)
+[    0.513044] CPV: ZZPBASVT ng [zrz 0ks0000000-0ks7ssssss] erfreirq va R820
+[    0.513052] CPV: Hfvat pbasvthengvba glcr 1 sbe onfr npprff
+[    0.516753] UhtrGYO ertvfgrerq 1.00 TvO cntr fvmr, cer-nyybpngrq 0 cntrf
+[    0.516753] UhtrGYO ertvfgrerq 2.00 ZvO cntr fvmr, cer-nyybpngrq 0 cntrf
+[    0.519904] NPCV: Nqqrq _BFV(Zbqhyr Qrivpr)
+[    0.519904] NPCV: Nqqrq _BFV(Cebprffbe Qrivpr)
+[    0.519904] NPCV: Nqqrq _BFV(3.0 _FPC Rkgrafvbaf)
+[    0.519904] NPCV: Nqqrq _BFV(Cebprffbe Nttertngbe Qrivpr)
+[    0.519904] NPCV: Nqqrq _BFV(Yvahk-Qryy-Ivqrb)
+[    0.519904] NPCV: Nqqrq _BFV(Yvahk-Yrabib-AI-UQZV-Nhqvb)
+[    0.534661] NPCV: 1 NPCV NZY gnoyrf fhpprffshyyl npdhverq naq ybnqrq
+[    0.537210] NPCV: [Svezjner Oht]: OVBF _BFV(Yvahk) dhrel vtaberq
+[    0.567032] NPCV: Vagrecergre ranoyrq
+[    0.567045] NPCV: (fhccbegf F0 F1 F4 F5)
+[    0.567046] NPCV: Hfvat VBNCVP sbe vagreehcg ebhgvat
+[    0.567069] CPV: Hfvat ubfg oevqtr jvaqbjf sebz NPCV; vs arprffnel, hfr "cpv=abpef" naq ercbeg n oht
+[    0.567506] NPCV: Ranoyrq 4 TCRf va oybpx 00 gb 0S
+[    0.647382] NPCV: CPV Ebbg Oevqtr [CPV0] (qbznva 0000 [ohf 00-7s])
+[    0.647388] npcv CAC0N03:00: _BFP: BF fhccbegf [RkgraqrqPbasvt NFCZ PybpxCZ Frtzragf ZFV]
+[    0.647578] npcv CAC0N03:00: _BFP: cyngsbez qbrf abg fhccbeg [NRE YGE]
+[    0.647761] npcv CAC0N03:00: _BFP: BF abj pbagebyf [CPVrUbgcyht FUCPUbgcyht CZR CPVrPncnovyvgl]
+[    0.650305] CPV ubfg oevqtr gb ohf 0000:00
+[    0.650308] cpv_ohf 0000:00: ebbg ohf erfbhepr [zrz 0k000n0000-0k000ossss jvaqbj]
+[    0.650309] cpv_ohf 0000:00: ebbg ohf erfbhepr [zrz 0k000pp000-0k000pssss jvaqbj]
+[    0.650310] cpv_ohf 0000:00: ebbg ohf erfbhepr [zrz 0k000q0000-0k000q3sss jvaqbj]
+[    0.650310] cpv_ohf 0000:00: ebbg ohf erfbhepr [zrz 0k000q4000-0k000q7sss jvaqbj]
+[    0.650311] cpv_ohf 0000:00: ebbg ohf erfbhepr [zrz 0k000q8000-0k000qosss jvaqbj]
+[    0.650312] cpv_ohf 0000:00: ebbg ohf erfbhepr [zrz 0k80000000-0ksrosssss jvaqbj]
+[    0.650313] cpv_ohf 0000:00: ebbg ohf erfbhepr [vb  0k0000-0k0ps7 jvaqbj]
+[    0.650314] cpv_ohf 0000:00: ebbg ohf erfbhepr [vb  0k0q00-0ksrss jvaqbj]
+[    0.650316] cpv_ohf 0000:00: ebbg ohf erfbhepr [ohf 00-7s]
+[    0.650394] cpv 0000:00:00.0: [8086:7190] glcr 00 pynff 0k060000
+[    0.651409] cpv 0000:00:01.0: [8086:7191] glcr 01 pynff 0k060400
+[    0.652271] cpv 0000:00:07.0: [8086:7110] glcr 00 pynff 0k060100
+[    0.653772] cpv 0000:00:07.1: [8086:7111] glcr 00 pynff 0k01018n
+[    0.655641] cpv 0000:00:07.1: ert 0k20: [vb  0k1060-0k106s]
+[    0.656378] cpv 0000:00:07.1: yrtnpl VQR dhvex: ert 0k10: [vb  0k01s0-0k01s7]
+[    0.656379] cpv 0000:00:07.1: yrtnpl VQR dhvex: ert 0k14: [vb  0k03s6]
+[    0.656380] cpv 0000:00:07.1: yrtnpl VQR dhvex: ert 0k18: [vb  0k0170-0k0177]
+[    0.656381] cpv 0000:00:07.1: yrtnpl VQR dhvex: ert 0k1p: [vb  0k0376]
+[    0.656701] cpv 0000:00:07.3: [8086:7113] glcr 00 pynff 0k068000
+[    0.659102] cpv 0000:00:07.3: dhvex: [vb  0k1000-0k103s] pynvzrq ol CVVK4 NPCV
+[    0.659121] cpv 0000:00:07.3: dhvex: [vb  0k1040-0k104s] pynvzrq ol CVVK4 FZO
+[    0.659641] cpv 0000:00:07.7: [15nq:0740] glcr 00 pynff 0k088000
+[    0.660649] cpv 0000:00:07.7: ert 0k10: [vb  0k1080-0k10os]
+[    0.661704] cpv 0000:00:07.7: ert 0k14: [zrz 0ksrosr000-0ksrosssss 64ovg]
+[    0.667942] cpv 0000:00:0s.0: [15nq:0405] glcr 00 pynff 0k030000
+[    0.671072] cpv 0000:00:0s.0: ert 0k10: [vb  0k1070-0k107s]
+[    0.672787] cpv 0000:00:0s.0: ert 0k14: [zrz 0kr8000000-0krsssssss cers]
+[    0.675139] cpv 0000:00:0s.0: ert 0k18: [zrz 0ksr000000-0ksr7sssss]
+[    0.683189] cpv 0000:00:0s.0: ert 0k30: [zrz 0k00000000-0k00007sss cers]
+[    0.683980] cpv 0000:00:10.0: [1000:0030] glcr 00 pynff 0k010000
+[    0.685378] cpv 0000:00:10.0: ert 0k10: [vb  0k1400-0k14ss]
+[    0.686851] cpv 0000:00:10.0: ert 0k14: [zrz 0ksron0000-0ksroossss 64ovg]
+[    0.688260] cpv 0000:00:10.0: ert 0k1p: [zrz 0ksrop0000-0ksroqssss 64ovg]
+[    0.690809] cpv 0000:00:10.0: ert 0k30: [zrz 0k00000000-0k00003sss cers]
+[    0.691532] cpv 0000:00:11.0: [15nq:0790] glcr 01 pynff 0k060401
+[    0.692872] cpv 0000:00:15.0: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.694093] cpv 0000:00:15.0: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.694648] cpv 0000:00:15.1: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.695871] cpv 0000:00:15.1: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.696982] cpv 0000:00:15.2: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.698192] cpv 0000:00:15.2: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.698981] cpv 0000:00:15.3: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.700592] cpv 0000:00:15.3: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.701285] cpv 0000:00:15.4: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.702521] cpv 0000:00:15.4: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.703164] cpv 0000:00:15.5: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.704404] cpv 0000:00:15.5: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.705043] cpv 0000:00:15.6: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.706269] cpv 0000:00:15.6: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.706905] cpv 0000:00:15.7: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.708157] cpv 0000:00:15.7: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.708782] cpv 0000:00:16.0: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.710010] cpv 0000:00:16.0: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.710730] cpv 0000:00:16.1: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.711953] cpv 0000:00:16.1: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.712805] cpv 0000:00:16.2: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.714038] cpv 0000:00:16.2: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.714662] cpv 0000:00:16.3: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.715899] cpv 0000:00:16.3: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.716524] cpv 0000:00:16.4: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.717758] cpv 0000:00:16.4: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.718382] cpv 0000:00:16.5: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.719604] cpv 0000:00:16.5: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.720234] cpv 0000:00:16.6: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.721947] cpv 0000:00:16.6: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.723001] cpv 0000:00:16.7: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.724314] cpv 0000:00:16.7: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.725044] cpv 0000:00:17.0: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.726302] cpv 0000:00:17.0: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.726948] cpv 0000:00:17.1: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.728155] cpv 0000:00:17.1: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.728961] cpv 0000:00:17.2: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.730272] cpv 0000:00:17.2: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.730979] cpv 0000:00:17.3: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.732196] cpv 0000:00:17.3: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.732819] cpv 0000:00:17.4: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.734052] cpv 0000:00:17.4: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.734768] cpv 0000:00:17.5: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.735988] cpv 0000:00:17.5: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.736612] cpv 0000:00:17.6: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.737837] cpv 0000:00:17.6: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.738457] cpv 0000:00:17.7: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.739711] cpv 0000:00:17.7: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.740330] cpv 0000:00:18.0: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.741615] cpv 0000:00:18.0: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.742251] cpv 0000:00:18.1: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.743475] cpv 0000:00:18.1: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.744344] cpv 0000:00:18.2: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.745568] cpv 0000:00:18.2: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.746173] cpv 0000:00:18.3: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.747466] cpv 0000:00:18.3: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.748458] cpv 0000:00:18.4: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.749672] cpv 0000:00:18.4: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.750322] cpv 0000:00:18.5: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.751577] cpv 0000:00:18.5: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.752213] cpv 0000:00:18.6: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.753439] cpv 0000:00:18.6: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.754060] cpv 0000:00:18.7: [15nq:07n0] glcr 01 pynff 0k060400
+[    0.755278] cpv 0000:00:18.7: CZR# fhccbegrq sebz Q0 Q3ubg Q3pbyq
+[    0.755974] cpv_ohf 0000:01: rkgraqrq pbasvt fcnpr abg npprffvoyr
+[    0.756017] cpv 0000:00:01.0: CPV oevqtr gb [ohf 01]
+[    0.756362] cpv_ohf 0000:02: rkgraqrq pbasvt fcnpr abg npprffvoyr
+[    0.756876] npcvcuc: Fybg [32] ertvfgrerq
+[    0.756937] npcvcuc: Fybg [33] ertvfgrerq
+[    0.756997] npcvcuc: Fybg [34] ertvfgrerq
+[    0.757055] npcvcuc: Fybg [35] ertvfgrerq
+[    0.757113] npcvcuc: Fybg [36] ertvfgrerq
+[    0.757172] npcvcuc: Fybg [37] ertvfgrerq
+[    0.757230] npcvcuc: Fybg [38] ertvfgrerq
+[    0.757289] npcvcuc: Fybg [39] ertvfgrerq
+[    0.757346] npcvcuc: Fybg [40] ertvfgrerq
+[    0.757440] npcvcuc: Fybg [41] ertvfgrerq
+[    0.757568] npcvcuc: Fybg [42] ertvfgrerq
+[    0.757628] npcvcuc: Fybg [43] ertvfgrerq
+[    0.757686] npcvcuc: Fybg [44] ertvfgrerq
+[    0.757744] npcvcuc: Fybg [45] ertvfgrerq
+[    0.757801] npcvcuc: Fybg [46] ertvfgrerq
+[    0.757859] npcvcuc: Fybg [47] ertvfgrerq
+[    0.757917] npcvcuc: Fybg [48] ertvfgrerq
+[    0.757974] npcvcuc: Fybg [49] ertvfgrerq
+[    0.758031] npcvcuc: Fybg [50] ertvfgrerq
+[    0.758089] npcvcuc: Fybg [51] ertvfgrerq
+[    0.758147] npcvcuc: Fybg [52] ertvfgrerq
+[    0.758205] npcvcuc: Fybg [53] ertvfgrerq
+[    0.758328] npcvcuc: Fybg [54] ertvfgrerq
+[    0.758389] npcvcuc: Fybg [55] ertvfgrerq
+[    0.758446] npcvcuc: Fybg [56] ertvfgrerq
+[    0.758504] npcvcuc: Fybg [57] ertvfgrerq
+[    0.758562] npcvcuc: Fybg [58] ertvfgrerq
+[    0.758642] npcvcuc: Fybg [59] ertvfgrerq
+[    0.758702] npcvcuc: Fybg [60] ertvfgrerq
+[    0.758761] npcvcuc: Fybg [61] ertvfgrerq
+[    0.758853] npcvcuc: Fybg [62] ertvfgrerq
+[    0.758965] npcvcuc: Fybg [63] ertvfgrerq
+[    0.759345] cpv 0000:02:00.0: [15nq:0774] glcr 00 pynff 0k0p0300
+[    0.762081] cpv 0000:02:00.0: ert 0k20: [vb  0k2080-0k209s]
+[    0.764289] cpv 0000:02:01.0: [8086:100s] glcr 00 pynff 0k020000
+[    0.767533] cpv 0000:02:01.0: ert 0k10: [zrz 0ksq5p0000-0ksq5qssss 64ovg]
+[    0.770077] cpv 0000:02:01.0: ert 0k18: [zrz 0ksqss0000-0ksqssssss 64ovg]
+[    0.771519] cpv 0000:02:01.0: ert 0k20: [vb  0k2000-0k203s]
+[    0.776222] cpv 0000:02:01.0: ert 0k30: [zrz 0k00000000-0k0000ssss cers]
+[    0.777459] cpv 0000:02:02.0: [1274:1371] glcr 00 pynff 0k040100
+[    0.778241] cpv 0000:02:02.0: ert 0k10: [vb  0k2040-0k207s]
+[    0.781793] cpv 0000:02:03.0: [15nq:0770] glcr 00 pynff 0k0p0320
+[    0.782492] cpv 0000:02:03.0: ert 0k10: [zrz 0ksq5rs000-0ksq5rssss]
+[    0.787404] cpv 0000:00:11.0: CPV oevqtr gb [ohf 02] (fhogenpgvir qrpbqr)
+[    0.787448] cpv 0000:00:11.0:   oevqtr jvaqbj [vb  0k2000-0k3sss]
+[    0.787482] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0ksq500000-0ksqssssss]
+[    0.787544] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0kr7o00000-0kr7ssssss 64ovg cers]
+[    0.787546] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0k000n0000-0k000ossss jvaqbj] (fhogenpgvir qrpbqr)
+[    0.787547] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0k000pp000-0k000pssss jvaqbj] (fhogenpgvir qrpbqr)
+[    0.787548] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0k000q0000-0k000q3sss jvaqbj] (fhogenpgvir qrpbqr)
+[    0.787549] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0k000q4000-0k000q7sss jvaqbj] (fhogenpgvir qrpbqr)
+[    0.787550] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0k000q8000-0k000qosss jvaqbj] (fhogenpgvir qrpbqr)
+[    0.787551] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0k80000000-0ksrosssss jvaqbj] (fhogenpgvir qrpbqr)
+[    0.787552] cpv 0000:00:11.0:   oevqtr jvaqbj [vb  0k0000-0k0ps7 jvaqbj] (fhogenpgvir qrpbqr)
+[    0.787553] cpv 0000:00:11.0:   oevqtr jvaqbj [vb  0k0q00-0ksrss jvaqbj] (fhogenpgvir qrpbqr)
+[    0.788143] cpv 0000:00:15.0: CPV oevqtr gb [ohf 03]
+[    0.788178] cpv 0000:00:15.0:   oevqtr jvaqbj [vb  0k4000-0k4sss]
+[    0.788211] cpv 0000:00:15.0:   oevqtr jvaqbj [zrz 0ksq400000-0ksq4sssss]
+[    0.788274] cpv 0000:00:15.0:   oevqtr jvaqbj [zrz 0kr7n00000-0kr7nsssss 64ovg cers]
+[    0.788796] cpv 0000:00:15.1: CPV oevqtr gb [ohf 04]
+[    0.788830] cpv 0000:00:15.1:   oevqtr jvaqbj [vb  0k8000-0k8sss]
+[    0.788863] cpv 0000:00:15.1:   oevqtr jvaqbj [zrz 0ksq000000-0ksq0sssss]
+[    0.788927] cpv 0000:00:15.1:   oevqtr jvaqbj [zrz 0kr7600000-0kr76sssss 64ovg cers]
+[    0.789726] cpv 0000:00:15.2: CPV oevqtr gb [ohf 05]
+[    0.789760] cpv 0000:00:15.2:   oevqtr jvaqbj [vb  0kp000-0kpsss]
+[    0.789793] cpv 0000:00:15.2:   oevqtr jvaqbj [zrz 0kspp00000-0ksppsssss]
+[    0.789856] cpv 0000:00:15.2:   oevqtr jvaqbj [zrz 0kr7200000-0kr72sssss 64ovg cers]
+[    0.790327] cpv 0000:00:15.3: CPV oevqtr gb [ohf 06]
+[    0.790393] cpv 0000:00:15.3:   oevqtr jvaqbj [zrz 0ksp800000-0ksp8sssss]
+[    0.790456] cpv 0000:00:15.3:   oevqtr jvaqbj [zrz 0kr6r00000-0kr6rsssss 64ovg cers]
+[    0.790923] cpv 0000:00:15.4: CPV oevqtr gb [ohf 07]
+[    0.790988] cpv 0000:00:15.4:   oevqtr jvaqbj [zrz 0ksp400000-0ksp4sssss]
+[    0.791052] cpv 0000:00:15.4:   oevqtr jvaqbj [zrz 0kr6n00000-0kr6nsssss 64ovg cers]
+[    0.791585] cpv 0000:00:15.5: CPV oevqtr gb [ohf 08]
+[    0.791651] cpv 0000:00:15.5:   oevqtr jvaqbj [zrz 0ksp000000-0ksp0sssss]
+[    0.791714] cpv 0000:00:15.5:   oevqtr jvaqbj [zrz 0kr6600000-0kr66sssss 64ovg cers]
+[    0.792185] cpv 0000:00:15.6: CPV oevqtr gb [ohf 09]
+[    0.792252] cpv 0000:00:15.6:   oevqtr jvaqbj [zrz 0ksop00000-0ksopsssss]
+[    0.792317] cpv 0000:00:15.6:   oevqtr jvaqbj [zrz 0kr6200000-0kr62sssss 64ovg cers]
+[    0.792785] cpv 0000:00:15.7: CPV oevqtr gb [ohf 0n]
+[    0.792850] cpv 0000:00:15.7:   oevqtr jvaqbj [zrz 0kso800000-0kso8sssss]
+[    0.792916] cpv 0000:00:15.7:   oevqtr jvaqbj [zrz 0kr5r00000-0kr5rsssss 64ovg cers]
+[    0.793453] cpv 0000:00:16.0: CPV oevqtr gb [ohf 0o]
+[    0.793487] cpv 0000:00:16.0:   oevqtr jvaqbj [vb  0k5000-0k5sss]
+[    0.793520] cpv 0000:00:16.0:   oevqtr jvaqbj [zrz 0ksq300000-0ksq3sssss]
+[    0.793584] cpv 0000:00:16.0:   oevqtr jvaqbj [zrz 0kr7900000-0kr79sssss 64ovg cers]
+[    0.794134] cpv 0000:00:16.1: CPV oevqtr gb [ohf 0p]
+[    0.794169] cpv 0000:00:16.1:   oevqtr jvaqbj [vb  0k9000-0k9sss]
+[    0.794202] cpv 0000:00:16.1:   oevqtr jvaqbj [zrz 0ksps00000-0kspssssss]
+[    0.794265] cpv 0000:00:16.1:   oevqtr jvaqbj [zrz 0kr7500000-0kr75sssss 64ovg cers]
+[    0.794804] cpv 0000:00:16.2: CPV oevqtr gb [ohf 0q]
+[    0.794839] cpv 0000:00:16.2:   oevqtr jvaqbj [vb  0kq000-0kqsss]
+[    0.794872] cpv 0000:00:16.2:   oevqtr jvaqbj [zrz 0kspo00000-0ksposssss]
+[    0.794935] cpv 0000:00:16.2:   oevqtr jvaqbj [zrz 0kr7100000-0kr71sssss 64ovg cers]
+[    0.795402] cpv 0000:00:16.3: CPV oevqtr gb [ohf 0r]
+[    0.795467] cpv 0000:00:16.3:   oevqtr jvaqbj [zrz 0ksp700000-0ksp7sssss]
+[    0.795528] cpv 0000:00:16.3:   oevqtr jvaqbj [zrz 0kr6q00000-0kr6qsssss 64ovg cers]
+[    0.796017] cpv 0000:00:16.4: CPV oevqtr gb [ohf 0s]
+[    0.796081] cpv 0000:00:16.4:   oevqtr jvaqbj [zrz 0ksp300000-0ksp3sssss]
+[    0.796144] cpv 0000:00:16.4:   oevqtr jvaqbj [zrz 0kr6900000-0kr69sssss 64ovg cers]
+[    0.796689] cpv 0000:00:16.5: CPV oevqtr gb [ohf 10]
+[    0.796753] cpv 0000:00:16.5:   oevqtr jvaqbj [zrz 0ksos00000-0ksossssss]
+[    0.796817] cpv 0000:00:16.5:   oevqtr jvaqbj [zrz 0kr6500000-0kr65sssss 64ovg cers]
+[    0.797282] cpv 0000:00:16.6: CPV oevqtr gb [ohf 11]
+[    0.797346] cpv 0000:00:16.6:   oevqtr jvaqbj [zrz 0ksoo00000-0ksoosssss]
+[    0.797408] cpv 0000:00:16.6:   oevqtr jvaqbj [zrz 0kr6100000-0kr61sssss 64ovg cers]
+[    0.798086] cpv 0000:00:16.7: CPV oevqtr gb [ohf 12]
+[    0.798152] cpv 0000:00:16.7:   oevqtr jvaqbj [zrz 0kso700000-0kso7sssss]
+[    0.798214] cpv 0000:00:16.7:   oevqtr jvaqbj [zrz 0kr5q00000-0kr5qsssss 64ovg cers]
+[    0.798697] cpv 0000:00:17.0: CPV oevqtr gb [ohf 13]
+[    0.798731] cpv 0000:00:17.0:   oevqtr jvaqbj [vb  0k6000-0k6sss]
+[    0.798764] cpv 0000:00:17.0:   oevqtr jvaqbj [zrz 0ksq200000-0ksq2sssss]
+[    0.798826] cpv 0000:00:17.0:   oevqtr jvaqbj [zrz 0kr7800000-0kr78sssss 64ovg cers]
+[    0.799293] cpv 0000:00:17.1: CPV oevqtr gb [ohf 14]
+[    0.799327] cpv 0000:00:17.1:   oevqtr jvaqbj [vb  0kn000-0knsss]
+[    0.799360] cpv 0000:00:17.1:   oevqtr jvaqbj [zrz 0kspr00000-0ksprsssss]
+[    0.799423] cpv 0000:00:17.1:   oevqtr jvaqbj [zrz 0kr7400000-0kr74sssss 64ovg cers]
+[    0.800364] cpv 0000:00:17.2: CPV oevqtr gb [ohf 15]
+[    0.800409] cpv 0000:00:17.2:   oevqtr jvaqbj [vb  0kr000-0krsss]
+[    0.800444] cpv 0000:00:17.2:   oevqtr jvaqbj [zrz 0kspn00000-0kspnsssss]
+[    0.800507] cpv 0000:00:17.2:   oevqtr jvaqbj [zrz 0kr7000000-0kr70sssss 64ovg cers]
+[    0.800992] cpv 0000:00:17.3: CPV oevqtr gb [ohf 16]
+[    0.801057] cpv 0000:00:17.3:   oevqtr jvaqbj [zrz 0ksp600000-0ksp6sssss]
+[    0.801120] cpv 0000:00:17.3:   oevqtr jvaqbj [zrz 0kr6p00000-0kr6psssss 64ovg cers]
+[    0.801595] cpv 0000:00:17.4: CPV oevqtr gb [ohf 17]
+[    0.801660] cpv 0000:00:17.4:   oevqtr jvaqbj [zrz 0ksp200000-0ksp2sssss]
+[    0.801723] cpv 0000:00:17.4:   oevqtr jvaqbj [zrz 0kr6800000-0kr68sssss 64ovg cers]
+[    0.802267] cpv 0000:00:17.5: CPV oevqtr gb [ohf 18]
+[    0.802332] cpv 0000:00:17.5:   oevqtr jvaqbj [zrz 0ksor00000-0ksorsssss]
+[    0.802394] cpv 0000:00:17.5:   oevqtr jvaqbj [zrz 0kr6400000-0kr64sssss 64ovg cers]
+[    0.802871] cpv 0000:00:17.6: CPV oevqtr gb [ohf 19]
+[    0.802936] cpv 0000:00:17.6:   oevqtr jvaqbj [zrz 0kson00000-0ksonsssss]
+[    0.802999] cpv 0000:00:17.6:   oevqtr jvaqbj [zrz 0kr6000000-0kr60sssss 64ovg cers]
+[    0.803515] cpv 0000:00:17.7: CPV oevqtr gb [ohf 1n]
+[    0.803582] cpv 0000:00:17.7:   oevqtr jvaqbj [zrz 0kso600000-0kso6sssss]
+[    0.803644] cpv 0000:00:17.7:   oevqtr jvaqbj [zrz 0kr5p00000-0kr5psssss 64ovg cers]
+[    0.804112] cpv 0000:00:18.0: CPV oevqtr gb [ohf 1o]
+[    0.804146] cpv 0000:00:18.0:   oevqtr jvaqbj [vb  0k7000-0k7sss]
+[    0.804179] cpv 0000:00:18.0:   oevqtr jvaqbj [zrz 0ksq100000-0ksq1sssss]
+[    0.804241] cpv 0000:00:18.0:   oevqtr jvaqbj [zrz 0kr7700000-0kr77sssss 64ovg cers]
+[    0.804710] cpv 0000:00:18.1: CPV oevqtr gb [ohf 1p]
+[    0.804744] cpv 0000:00:18.1:   oevqtr jvaqbj [vb  0ko000-0kosss]
+[    0.804777] cpv 0000:00:18.1:   oevqtr jvaqbj [zrz 0kspq00000-0kspqsssss]
+[    0.804840] cpv 0000:00:18.1:   oevqtr jvaqbj [zrz 0kr7300000-0kr73sssss 64ovg cers]
+[    0.805385] cpv 0000:00:18.2: CPV oevqtr gb [ohf 1q]
+[    0.805450] cpv 0000:00:18.2:   oevqtr jvaqbj [zrz 0ksp900000-0ksp9sssss]
+[    0.805513] cpv 0000:00:18.2:   oevqtr jvaqbj [zrz 0kr6s00000-0kr6ssssss 64ovg cers]
+[    0.805984] cpv 0000:00:18.3: CPV oevqtr gb [ohf 1r]
+[    0.806048] cpv 0000:00:18.3:   oevqtr jvaqbj [zrz 0ksp500000-0ksp5sssss]
+[    0.806111] cpv 0000:00:18.3:   oevqtr jvaqbj [zrz 0kr6o00000-0kr6osssss 64ovg cers]
+[    0.806647] cpv 0000:00:18.4: CPV oevqtr gb [ohf 1s]
+[    0.806712] cpv 0000:00:18.4:   oevqtr jvaqbj [zrz 0ksp100000-0ksp1sssss]
+[    0.806774] cpv 0000:00:18.4:   oevqtr jvaqbj [zrz 0kr6700000-0kr67sssss 64ovg cers]
+[    0.807291] cpv 0000:00:18.5: CPV oevqtr gb [ohf 20]
+[    0.807356] cpv 0000:00:18.5:   oevqtr jvaqbj [zrz 0ksoq00000-0ksoqsssss]
+[    0.807419] cpv 0000:00:18.5:   oevqtr jvaqbj [zrz 0kr6300000-0kr63sssss 64ovg cers]
+[    0.807875] cpv 0000:00:18.6: CPV oevqtr gb [ohf 21]
+[    0.807939] cpv 0000:00:18.6:   oevqtr jvaqbj [zrz 0kso900000-0kso9sssss]
+[    0.808001] cpv 0000:00:18.6:   oevqtr jvaqbj [zrz 0kr5s00000-0kr5ssssss 64ovg cers]
+[    0.808532] cpv 0000:00:18.7: CPV oevqtr gb [ohf 22]
+[    0.808596] cpv 0000:00:18.7:   oevqtr jvaqbj [zrz 0kso500000-0kso5sssss]
+[    0.808658] cpv 0000:00:18.7:   oevqtr jvaqbj [zrz 0kr5o00000-0kr5osssss 64ovg cers]
+[    0.812550] NPCV: CPV Vagreehcg Yvax [YAXN] (VEDf 3 4 5 6 7 *9 10 11 14 15)
+[    0.812659] NPCV: CPV Vagreehcg Yvax [YAXO] (VEDf 3 4 5 6 7 9 10 *11 14 15)
+[    0.812764] NPCV: CPV Vagreehcg Yvax [YAXP] (VEDf 3 4 5 6 7 9 *10 11 14 15)
+[    0.812868] NPCV: CPV Vagreehcg Yvax [YAXQ] (VEDf 3 4 *5 6 7 9 10 11 14 15)
+[    0.826403] cpv 0000:00:0s.0: itnneo: frggvat nf obbg ITN qrivpr
+[    0.826403] cpv 0000:00:0s.0: itnneo: ITN qrivpr nqqrq: qrpbqrf=vb+zrz,bjaf=vb+zrz,ybpxf=abar
+[    0.826403] cpv 0000:00:0s.0: itnneo: oevqtr pbageby cbffvoyr
+[    0.826403] itnneo: ybnqrq
+[    0.826403] ccf_pber: YvahkCCF NCV ire. 1 ertvfgrerq
+[    0.826403] ccf_pber: Fbsgjner ire. 5.3.6 - Pbclevtug 2005-2007 Ebqbysb Tvbzrggv <tvbzrggv@yvahk.vg>
+[    0.826403] CGC pybpx fhccbeg ertvfgrerq
+[    0.826403] RQNP ZP: Ire: 3.0.0
+[    0.829421] CPV: Hfvat NPCV sbe VED ebhgvat
+[    0.833102] CPV: cpv_pnpur_yvar_fvmr frg gb 64 olgrf
+[    0.834537] r820: erfreir ENZ ohssre [zrz 0k0009rp00-0k0009ssss]
+[    0.834539] r820: erfreir ENZ ohssre [zrz 0k7srr0000-0k7sssssss]
+[    0.835087] ucrg0: ng ZZVB 0ksrq00000, VEDf 2, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+[    0.835087] ucrg0: 16 pbzcnengbef, 64-ovg 14.318180 ZUm pbhagre
+[    0.836645] pybpxfbhepr: Fjvgpurq gb pybpxfbhepr gfp-rneyl
+[    0.897442] ISF: Qvfx dhbgnf qdhbg_6.6.0
+[    0.897518] ISF: Qdhbg-pnpur unfu gnoyr ragevrf: 512 (beqre 0, 4096 olgrf)
+[    0.898368] NccNezbe: NccNezbe Svyrflfgrz Ranoyrq
+[    0.898385] cac: CaC NPCV vavg
+[    0.898642] flfgrz 00:00: [vb  0k1000-0k103s] unf orra erfreirq
+[    0.898643] flfgrz 00:00: [vb  0k1040-0k104s] unf orra erfreirq
+[    0.898645] flfgrz 00:00: [vb  0k0ps0-0k0ps1] unf orra erfreirq
+[    0.898649] flfgrz 00:00: Cyht naq Cynl NPCV qrivpr, VQf CAC0p02 (npgvir)
+[    0.898669] cac 00:01: Cyht naq Cynl NPCV qrivpr, VQf CAC0o00 (npgvir)
+[    0.898683] cac 00:02: Cyht naq Cynl NPCV qrivpr, VQf CAC0303 (npgvir)
+[    0.898770] cac 00:03: Cyht naq Cynl NPCV qrivpr, VQf IZJ0003 CAC0s13 (npgvir)
+[    0.899050] flfgrz 00:04: [zrz 0ksrq00000-0ksrq003ss] unf orra erfreirq
+[    0.899054] flfgrz 00:04: Cyht naq Cynl NPCV qrivpr, VQf CAC0103 CAC0p01 (npgvir)
+[    0.901397] flfgrz 00:05: [vb  0kspr0-0kspss] unf orra erfreirq
+[    0.901400] flfgrz 00:05: [zrz 0ks0000000-0ks7ssssss] unf orra erfreirq
+[    0.901402] flfgrz 00:05: [zrz 0ksr800000-0ksr9sssss] unf orra erfreirq
+[    0.901407] flfgrz 00:05: Cyht naq Cynl NPCV qrivpr, VQf CAC0p02 (npgvir)
+[    0.906686] cac: CaC NPCV: sbhaq 6 qrivprf
+[    0.923132] pybpxfbhepr: npcv_cz: znfx: 0kssssss znk_plpyrf: 0kssssss, znk_vqyr_af: 2085701024 af
+[    0.923670] cpv 0000:00:15.3: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 06] nqq_fvmr 1000
+[    0.923764] cpv 0000:00:15.4: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 07] nqq_fvmr 1000
+[    0.923858] cpv 0000:00:15.5: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 08] nqq_fvmr 1000
+[    0.923951] cpv 0000:00:15.6: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 09] nqq_fvmr 1000
+[    0.924086] cpv 0000:00:15.7: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 0n] nqq_fvmr 1000
+[    0.924454] cpv 0000:00:16.3: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 0r] nqq_fvmr 1000
+[    0.924548] cpv 0000:00:16.4: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 0s] nqq_fvmr 1000
+[    0.924642] cpv 0000:00:16.5: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 10] nqq_fvmr 1000
+[    0.924735] cpv 0000:00:16.6: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 11] nqq_fvmr 1000
+[    0.924829] cpv 0000:00:16.7: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 12] nqq_fvmr 1000
+[    0.925197] cpv 0000:00:17.3: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 16] nqq_fvmr 1000
+[    0.925291] cpv 0000:00:17.4: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 17] nqq_fvmr 1000
+[    0.925385] cpv 0000:00:17.5: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 18] nqq_fvmr 1000
+[    0.925479] cpv 0000:00:17.6: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 19] nqq_fvmr 1000
+[    0.925572] cpv 0000:00:17.7: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 1n] nqq_fvmr 1000
+[    0.925854] cpv 0000:00:18.2: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 1q] nqq_fvmr 1000
+[    0.925950] cpv 0000:00:18.3: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 1r] nqq_fvmr 1000
+[    0.926053] cpv 0000:00:18.4: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 1s] nqq_fvmr 1000
+[    0.926148] cpv 0000:00:18.5: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 20] nqq_fvmr 1000
+[    0.926243] cpv 0000:00:18.6: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 21] nqq_fvmr 1000
+[    0.926338] cpv 0000:00:18.7: oevqtr jvaqbj [vb  0k1000-0k0sss] gb [ohf 22] nqq_fvmr 1000
+[    0.926421] cpv 0000:00:0s.0: ONE 6: nffvtarq [zrz 0k80000000-0k80007sss cers]
+[    0.926423] cpv 0000:00:10.0: ONE 6: nffvtarq [zrz 0k80008000-0k8000osss cers]
+[    0.926426] cpv 0000:00:15.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926427] cpv 0000:00:15.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926454] cpv 0000:00:15.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926455] cpv 0000:00:15.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926457] cpv 0000:00:15.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926458] cpv 0000:00:15.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926460] cpv 0000:00:15.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926460] cpv 0000:00:15.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926462] cpv 0000:00:15.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926463] cpv 0000:00:15.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926465] cpv 0000:00:16.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926466] cpv 0000:00:16.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926530] cpv 0000:00:16.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926532] cpv 0000:00:16.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926534] cpv 0000:00:16.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926534] cpv 0000:00:16.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926536] cpv 0000:00:16.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926537] cpv 0000:00:16.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926539] cpv 0000:00:16.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926540] cpv 0000:00:16.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926541] cpv 0000:00:17.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926542] cpv 0000:00:17.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926544] cpv 0000:00:17.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926545] cpv 0000:00:17.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926546] cpv 0000:00:17.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926547] cpv 0000:00:17.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926549] cpv 0000:00:17.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926550] cpv 0000:00:17.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926551] cpv 0000:00:17.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926552] cpv 0000:00:17.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926554] cpv 0000:00:18.2: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926555] cpv 0000:00:18.2: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926557] cpv 0000:00:18.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926557] cpv 0000:00:18.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926559] cpv 0000:00:18.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926560] cpv 0000:00:18.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926562] cpv 0000:00:18.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926563] cpv 0000:00:18.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926564] cpv 0000:00:18.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926565] cpv 0000:00:18.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926567] cpv 0000:00:18.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926568] cpv 0000:00:18.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926572] cpv 0000:00:18.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926573] cpv 0000:00:18.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926574] cpv 0000:00:18.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926575] cpv 0000:00:18.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926577] cpv 0000:00:18.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926578] cpv 0000:00:18.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926579] cpv 0000:00:18.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926580] cpv 0000:00:18.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926582] cpv 0000:00:18.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926583] cpv 0000:00:18.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926585] cpv 0000:00:18.2: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926585] cpv 0000:00:18.2: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926587] cpv 0000:00:17.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926588] cpv 0000:00:17.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926590] cpv 0000:00:17.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926590] cpv 0000:00:17.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926592] cpv 0000:00:17.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926593] cpv 0000:00:17.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926595] cpv 0000:00:17.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926596] cpv 0000:00:17.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926597] cpv 0000:00:17.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926598] cpv 0000:00:17.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926600] cpv 0000:00:16.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926601] cpv 0000:00:16.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926602] cpv 0000:00:16.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926603] cpv 0000:00:16.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926605] cpv 0000:00:16.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926606] cpv 0000:00:16.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926607] cpv 0000:00:16.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926608] cpv 0000:00:16.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926610] cpv 0000:00:16.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926611] cpv 0000:00:16.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926612] cpv 0000:00:15.7: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926613] cpv 0000:00:15.7: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926615] cpv 0000:00:15.6: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926616] cpv 0000:00:15.6: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926617] cpv 0000:00:15.5: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926618] cpv 0000:00:15.5: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926620] cpv 0000:00:15.4: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926621] cpv 0000:00:15.4: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926622] cpv 0000:00:15.3: ONE 13: ab fcnpr sbe [vb  fvmr 0k1000]
+[    0.926623] cpv 0000:00:15.3: ONE 13: snvyrq gb nffvta [vb  fvmr 0k1000]
+[    0.926626] cpv 0000:00:01.0: CPV oevqtr gb [ohf 01]
+[    0.926782] cpv 0000:02:01.0: ONE 6: nffvtarq [zrz 0ksq500000-0ksq50ssss cers]
+[    0.926784] cpv 0000:00:11.0: CPV oevqtr gb [ohf 02]
+[    0.926803] cpv 0000:00:11.0:   oevqtr jvaqbj [vb  0k2000-0k3sss]
+[    0.926853] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0ksq500000-0ksqssssss]
+[    0.926885] cpv 0000:00:11.0:   oevqtr jvaqbj [zrz 0kr7o00000-0kr7ssssss 64ovg cers]
+[    0.926949] cpv 0000:00:15.0: CPV oevqtr gb [ohf 03]
+[    0.926967] cpv 0000:00:15.0:   oevqtr jvaqbj [vb  0k4000-0k4sss]
+[    0.927015] cpv 0000:00:15.0:   oevqtr jvaqbj [zrz 0ksq400000-0ksq4sssss]
+[    0.927047] cpv 0000:00:15.0:   oevqtr jvaqbj [zrz 0kr7n00000-0kr7nsssss 64ovg cers]
+[    0.927161] cpv 0000:00:15.1: CPV oevqtr gb [ohf 04]
+[    0.927181] cpv 0000:00:15.1:   oevqtr jvaqbj [vb  0k8000-0k8sss]
+[    0.927230] cpv 0000:00:15.1:   oevqtr jvaqbj [zrz 0ksq000000-0ksq0sssss]
+[    0.927263] cpv 0000:00:15.1:   oevqtr jvaqbj [zrz 0kr7600000-0kr76sssss 64ovg cers]
+[    0.927344] cpv 0000:00:15.2: CPV oevqtr gb [ohf 05]
+[    0.927364] cpv 0000:00:15.2:   oevqtr jvaqbj [vb  0kp000-0kpsss]
+[    0.927412] cpv 0000:00:15.2:   oevqtr jvaqbj [zrz 0kspp00000-0ksppsssss]
+[    0.927445] cpv 0000:00:15.2:   oevqtr jvaqbj [zrz 0kr7200000-0kr72sssss 64ovg cers]
+[    0.927533] cpv 0000:00:15.3: CPV oevqtr gb [ohf 06]
+[    0.927586] cpv 0000:00:15.3:   oevqtr jvaqbj [zrz 0ksp800000-0ksp8sssss]
+[    0.927618] cpv 0000:00:15.3:   oevqtr jvaqbj [zrz 0kr6r00000-0kr6rsssss 64ovg cers]
+[    0.927697] cpv 0000:00:15.4: CPV oevqtr gb [ohf 07]
+[    0.927747] cpv 0000:00:15.4:   oevqtr jvaqbj [zrz 0ksp400000-0ksp4sssss]
+[    0.927779] cpv 0000:00:15.4:   oevqtr jvaqbj [zrz 0kr6n00000-0kr6nsssss 64ovg cers]
+[    0.927857] cpv 0000:00:15.5: CPV oevqtr gb [ohf 08]
+[    0.927906] cpv 0000:00:15.5:   oevqtr jvaqbj [zrz 0ksp000000-0ksp0sssss]
+[    0.927938] cpv 0000:00:15.5:   oevqtr jvaqbj [zrz 0kr6600000-0kr66sssss 64ovg cers]
+[    0.928044] cpv 0000:00:15.6: CPV oevqtr gb [ohf 09]
+[    0.928095] cpv 0000:00:15.6:   oevqtr jvaqbj [zrz 0ksop00000-0ksopsssss]
+[    0.928127] cpv 0000:00:15.6:   oevqtr jvaqbj [zrz 0kr6200000-0kr62sssss 64ovg cers]
+[    0.928204] cpv 0000:00:15.7: CPV oevqtr gb [ohf 0n]
+[    0.928253] cpv 0000:00:15.7:   oevqtr jvaqbj [zrz 0kso800000-0kso8sssss]
+[    0.928286] cpv 0000:00:15.7:   oevqtr jvaqbj [zrz 0kr5r00000-0kr5rsssss 64ovg cers]
+[    0.928363] cpv 0000:00:16.0: CPV oevqtr gb [ohf 0o]
+[    0.928383] cpv 0000:00:16.0:   oevqtr jvaqbj [vb  0k5000-0k5sss]
+[    0.928440] cpv 0000:00:16.0:   oevqtr jvaqbj [zrz 0ksq300000-0ksq3sssss]
+[    0.928473] cpv 0000:00:16.0:   oevqtr jvaqbj [zrz 0kr7900000-0kr79sssss 64ovg cers]
+[    0.928551] cpv 0000:00:16.1: CPV oevqtr gb [ohf 0p]
+[    0.928570] cpv 0000:00:16.1:   oevqtr jvaqbj [vb  0k9000-0k9sss]
+[    0.928637] cpv 0000:00:16.1:   oevqtr jvaqbj [zrz 0ksps00000-0kspssssss]
+[    0.928682] cpv 0000:00:16.1:   oevqtr jvaqbj [zrz 0kr7500000-0kr75sssss 64ovg cers]
+[    0.928767] cpv 0000:00:16.2: CPV oevqtr gb [ohf 0q]
+[    0.928787] cpv 0000:00:16.2:   oevqtr jvaqbj [vb  0kq000-0kqsss]
+[    0.928836] cpv 0000:00:16.2:   oevqtr jvaqbj [zrz 0kspo00000-0ksposssss]
+[    0.928868] cpv 0000:00:16.2:   oevqtr jvaqbj [zrz 0kr7100000-0kr71sssss 64ovg cers]
+[    0.928946] cpv 0000:00:16.3: CPV oevqtr gb [ohf 0r]
+[    0.928996] cpv 0000:00:16.3:   oevqtr jvaqbj [zrz 0ksp700000-0ksp7sssss]
+[    0.929028] cpv 0000:00:16.3:   oevqtr jvaqbj [zrz 0kr6q00000-0kr6qsssss 64ovg cers]
+[    0.929106] cpv 0000:00:16.4: CPV oevqtr gb [ohf 0s]
+[    0.929155] cpv 0000:00:16.4:   oevqtr jvaqbj [zrz 0ksp300000-0ksp3sssss]
+[    0.929188] cpv 0000:00:16.4:   oevqtr jvaqbj [zrz 0kr6900000-0kr69sssss 64ovg cers]
+[    0.929266] cpv 0000:00:16.5: CPV oevqtr gb [ohf 10]
+[    0.929316] cpv 0000:00:16.5:   oevqtr jvaqbj [zrz 0ksos00000-0ksossssss]
+[    0.929348] cpv 0000:00:16.5:   oevqtr jvaqbj [zrz 0kr6500000-0kr65sssss 64ovg cers]
+[    0.929426] cpv 0000:00:16.6: CPV oevqtr gb [ohf 11]
+[    0.929476] cpv 0000:00:16.6:   oevqtr jvaqbj [zrz 0ksoo00000-0ksoosssss]
+[    0.929508] cpv 0000:00:16.6:   oevqtr jvaqbj [zrz 0kr6100000-0kr61sssss 64ovg cers]
+[    0.929586] cpv 0000:00:16.7: CPV oevqtr gb [ohf 12]
+[    0.929635] cpv 0000:00:16.7:   oevqtr jvaqbj [zrz 0kso700000-0kso7sssss]
+[    0.929668] cpv 0000:00:16.7:   oevqtr jvaqbj [zrz 0kr5q00000-0kr5qsssss 64ovg cers]
+[    0.929745] cpv 0000:00:17.0: CPV oevqtr gb [ohf 13]
+[    0.929764] cpv 0000:00:17.0:   oevqtr jvaqbj [vb  0k6000-0k6sss]
+[    0.929812] cpv 0000:00:17.0:   oevqtr jvaqbj [zrz 0ksq200000-0ksq2sssss]
+[    0.929845] cpv 0000:00:17.0:   oevqtr jvaqbj [zrz 0kr7800000-0kr78sssss 64ovg cers]
+[    0.929922] cpv 0000:00:17.1: CPV oevqtr gb [ohf 14]
+[    0.929942] cpv 0000:00:17.1:   oevqtr jvaqbj [vb  0kn000-0knsss]
+[    0.929990] cpv 0000:00:17.1:   oevqtr jvaqbj [zrz 0kspr00000-0ksprsssss]
+[    0.930022] cpv 0000:00:17.1:   oevqtr jvaqbj [zrz 0kr7400000-0kr74sssss 64ovg cers]
+[    0.930100] cpv 0000:00:17.2: CPV oevqtr gb [ohf 15]
+[    0.930119] cpv 0000:00:17.2:   oevqtr jvaqbj [vb  0kr000-0krsss]
+[    0.930168] cpv 0000:00:17.2:   oevqtr jvaqbj [zrz 0kspn00000-0kspnsssss]
+[    0.930200] cpv 0000:00:17.2:   oevqtr jvaqbj [zrz 0kr7000000-0kr70sssss 64ovg cers]
+[    0.930278] cpv 0000:00:17.3: CPV oevqtr gb [ohf 16]
+[    0.930328] cpv 0000:00:17.3:   oevqtr jvaqbj [zrz 0ksp600000-0ksp6sssss]
+[    0.930360] cpv 0000:00:17.3:   oevqtr jvaqbj [zrz 0kr6p00000-0kr6psssss 64ovg cers]
+[    0.930437] cpv 0000:00:17.4: CPV oevqtr gb [ohf 17]
+[    0.930487] cpv 0000:00:17.4:   oevqtr jvaqbj [zrz 0ksp200000-0ksp2sssss]
+[    0.930520] cpv 0000:00:17.4:   oevqtr jvaqbj [zrz 0kr6800000-0kr68sssss 64ovg cers]
+[    0.930597] cpv 0000:00:17.5: CPV oevqtr gb [ohf 18]
+[    0.930654] cpv 0000:00:17.5:   oevqtr jvaqbj [zrz 0ksor00000-0ksorsssss]
+[    0.930688] cpv 0000:00:17.5:   oevqtr jvaqbj [zrz 0kr6400000-0kr64sssss 64ovg cers]
+[    0.930766] cpv 0000:00:17.6: CPV oevqtr gb [ohf 19]
+[    0.930816] cpv 0000:00:17.6:   oevqtr jvaqbj [zrz 0kson00000-0ksonsssss]
+[    0.930849] cpv 0000:00:17.6:   oevqtr jvaqbj [zrz 0kr6000000-0kr60sssss 64ovg cers]
+[    0.930926] cpv 0000:00:17.7: CPV oevqtr gb [ohf 1n]
+[    0.930977] cpv 0000:00:17.7:   oevqtr jvaqbj [zrz 0kso600000-0kso6sssss]
+[    0.931009] cpv 0000:00:17.7:   oevqtr jvaqbj [zrz 0kr5p00000-0kr5psssss 64ovg cers]
+[    0.931087] cpv 0000:00:18.0: CPV oevqtr gb [ohf 1o]
+[    0.931107] cpv 0000:00:18.0:   oevqtr jvaqbj [vb  0k7000-0k7sss]
+[    0.931155] cpv 0000:00:18.0:   oevqtr jvaqbj [zrz 0ksq100000-0ksq1sssss]
+[    0.931187] cpv 0000:00:18.0:   oevqtr jvaqbj [zrz 0kr7700000-0kr77sssss 64ovg cers]
+[    0.931264] cpv 0000:00:18.1: CPV oevqtr gb [ohf 1p]
+[    0.931284] cpv 0000:00:18.1:   oevqtr jvaqbj [vb  0ko000-0kosss]
+[    0.931332] cpv 0000:00:18.1:   oevqtr jvaqbj [zrz 0kspq00000-0kspqsssss]
+[    0.931364] cpv 0000:00:18.1:   oevqtr jvaqbj [zrz 0kr7300000-0kr73sssss 64ovg cers]
+[    0.931442] cpv 0000:00:18.2: CPV oevqtr gb [ohf 1q]
+[    0.931492] cpv 0000:00:18.2:   oevqtr jvaqbj [zrz 0ksp900000-0ksp9sssss]
+[    0.931536] cpv 0000:00:18.2:   oevqtr jvaqbj [zrz 0kr6s00000-0kr6ssssss 64ovg cers]
+[    0.931614] cpv 0000:00:18.3: CPV oevqtr gb [ohf 1r]
+[    0.931664] cpv 0000:00:18.3:   oevqtr jvaqbj [zrz 0ksp500000-0ksp5sssss]
+[    0.931696] cpv 0000:00:18.3:   oevqtr jvaqbj [zrz 0kr6o00000-0kr6osssss 64ovg cers]
+[    0.931773] cpv 0000:00:18.4: CPV oevqtr gb [ohf 1s]
+[    0.931823] cpv 0000:00:18.4:   oevqtr jvaqbj [zrz 0ksp100000-0ksp1sssss]
+[    0.931855] cpv 0000:00:18.4:   oevqtr jvaqbj [zrz 0kr6700000-0kr67sssss 64ovg cers]
+[    0.931931] cpv 0000:00:18.5: CPV oevqtr gb [ohf 20]
+[    0.932010] cpv 0000:00:18.5:   oevqtr jvaqbj [zrz 0ksoq00000-0ksoqsssss]
+[    0.932046] cpv 0000:00:18.5:   oevqtr jvaqbj [zrz 0kr6300000-0kr63sssss 64ovg cers]
+[    0.932125] cpv 0000:00:18.6: CPV oevqtr gb [ohf 21]
+[    0.932176] cpv 0000:00:18.6:   oevqtr jvaqbj [zrz 0kso900000-0kso9sssss]
+[    0.932208] cpv 0000:00:18.6:   oevqtr jvaqbj [zrz 0kr5s00000-0kr5ssssss 64ovg cers]
+[    0.932286] cpv 0000:00:18.7: CPV oevqtr gb [ohf 22]
+[    0.932336] cpv 0000:00:18.7:   oevqtr jvaqbj [zrz 0kso500000-0kso5sssss]
+[    0.932368] cpv 0000:00:18.7:   oevqtr jvaqbj [zrz 0kr5o00000-0kr5osssss 64ovg cers]
+[    0.932446] cpv_ohf 0000:00: erfbhepr 4 [zrz 0k000n0000-0k000ossss jvaqbj]
+[    0.932448] cpv_ohf 0000:00: erfbhepr 5 [zrz 0k000pp000-0k000pssss jvaqbj]
+[    0.932449] cpv_ohf 0000:00: erfbhepr 6 [zrz 0k000q0000-0k000q3sss jvaqbj]
+[    0.932450] cpv_ohf 0000:00: erfbhepr 7 [zrz 0k000q4000-0k000q7sss jvaqbj]
+[    0.932451] cpv_ohf 0000:00: erfbhepr 8 [zrz 0k000q8000-0k000qosss jvaqbj]
+[    0.932452] cpv_ohf 0000:00: erfbhepr 9 [zrz 0k80000000-0ksrosssss jvaqbj]
+[    0.932453] cpv_ohf 0000:00: erfbhepr 10 [vb  0k0000-0k0ps7 jvaqbj]
+[    0.932454] cpv_ohf 0000:00: erfbhepr 11 [vb  0k0q00-0ksrss jvaqbj]
+[    0.932457] cpv_ohf 0000:02: erfbhepr 0 [vb  0k2000-0k3sss]
+[    0.932458] cpv_ohf 0000:02: erfbhepr 1 [zrz 0ksq500000-0ksqssssss]
+[    0.932459] cpv_ohf 0000:02: erfbhepr 2 [zrz 0kr7o00000-0kr7ssssss 64ovg cers]
+[    0.932460] cpv_ohf 0000:02: erfbhepr 4 [zrz 0k000n0000-0k000ossss jvaqbj]
+[    0.932461] cpv_ohf 0000:02: erfbhepr 5 [zrz 0k000pp000-0k000pssss jvaqbj]
+[    0.932461] cpv_ohf 0000:02: erfbhepr 6 [zrz 0k000q0000-0k000q3sss jvaqbj]
+[    0.932462] cpv_ohf 0000:02: erfbhepr 7 [zrz 0k000q4000-0k000q7sss jvaqbj]
+[    0.932463] cpv_ohf 0000:02: erfbhepr 8 [zrz 0k000q8000-0k000qosss jvaqbj]
+[    0.932464] cpv_ohf 0000:02: erfbhepr 9 [zrz 0k80000000-0ksrosssss jvaqbj]
+[    0.932465] cpv_ohf 0000:02: erfbhepr 10 [vb  0k0000-0k0ps7 jvaqbj]
+[    0.932466] cpv_ohf 0000:02: erfbhepr 11 [vb  0k0q00-0ksrss jvaqbj]
+[    0.932467] cpv_ohf 0000:03: erfbhepr 0 [vb  0k4000-0k4sss]
+[    0.932468] cpv_ohf 0000:03: erfbhepr 1 [zrz 0ksq400000-0ksq4sssss]
+[    0.932469] cpv_ohf 0000:03: erfbhepr 2 [zrz 0kr7n00000-0kr7nsssss 64ovg cers]
+[    0.932470] cpv_ohf 0000:04: erfbhepr 0 [vb  0k8000-0k8sss]
+[    0.932471] cpv_ohf 0000:04: erfbhepr 1 [zrz 0ksq000000-0ksq0sssss]
+[    0.932472] cpv_ohf 0000:04: erfbhepr 2 [zrz 0kr7600000-0kr76sssss 64ovg cers]
+[    0.932473] cpv_ohf 0000:05: erfbhepr 0 [vb  0kp000-0kpsss]
+[    0.932474] cpv_ohf 0000:05: erfbhepr 1 [zrz 0kspp00000-0ksppsssss]
+[    0.932475] cpv_ohf 0000:05: erfbhepr 2 [zrz 0kr7200000-0kr72sssss 64ovg cers]
+[    0.932476] cpv_ohf 0000:06: erfbhepr 1 [zrz 0ksp800000-0ksp8sssss]
+[    0.932477] cpv_ohf 0000:06: erfbhepr 2 [zrz 0kr6r00000-0kr6rsssss 64ovg cers]
+[    0.932478] cpv_ohf 0000:07: erfbhepr 1 [zrz 0ksp400000-0ksp4sssss]
+[    0.932479] cpv_ohf 0000:07: erfbhepr 2 [zrz 0kr6n00000-0kr6nsssss 64ovg cers]
+[    0.932481] cpv_ohf 0000:08: erfbhepr 1 [zrz 0ksp000000-0ksp0sssss]
+[    0.932482] cpv_ohf 0000:08: erfbhepr 2 [zrz 0kr6600000-0kr66sssss 64ovg cers]
+[    0.932483] cpv_ohf 0000:09: erfbhepr 1 [zrz 0ksop00000-0ksopsssss]
+[    0.932484] cpv_ohf 0000:09: erfbhepr 2 [zrz 0kr6200000-0kr62sssss 64ovg cers]
+[    0.932485] cpv_ohf 0000:0n: erfbhepr 1 [zrz 0kso800000-0kso8sssss]
+[    0.932486] cpv_ohf 0000:0n: erfbhepr 2 [zrz 0kr5r00000-0kr5rsssss 64ovg cers]
+[    0.932487] cpv_ohf 0000:0o: erfbhepr 0 [vb  0k5000-0k5sss]
+[    0.932487] cpv_ohf 0000:0o: erfbhepr 1 [zrz 0ksq300000-0ksq3sssss]
+[    0.932488] cpv_ohf 0000:0o: erfbhepr 2 [zrz 0kr7900000-0kr79sssss 64ovg cers]
+[    0.932489] cpv_ohf 0000:0p: erfbhepr 0 [vb  0k9000-0k9sss]
+[    0.932490] cpv_ohf 0000:0p: erfbhepr 1 [zrz 0ksps00000-0kspssssss]
+[    0.932491] cpv_ohf 0000:0p: erfbhepr 2 [zrz 0kr7500000-0kr75sssss 64ovg cers]
+[    0.932492] cpv_ohf 0000:0q: erfbhepr 0 [vb  0kq000-0kqsss]
+[    0.932493] cpv_ohf 0000:0q: erfbhepr 1 [zrz 0kspo00000-0ksposssss]
+[    0.932494] cpv_ohf 0000:0q: erfbhepr 2 [zrz 0kr7100000-0kr71sssss 64ovg cers]
+[    0.932495] cpv_ohf 0000:0r: erfbhepr 1 [zrz 0ksp700000-0ksp7sssss]
+[    0.932496] cpv_ohf 0000:0r: erfbhepr 2 [zrz 0kr6q00000-0kr6qsssss 64ovg cers]
+[    0.932497] cpv_ohf 0000:0s: erfbhepr 1 [zrz 0ksp300000-0ksp3sssss]
+[    0.932498] cpv_ohf 0000:0s: erfbhepr 2 [zrz 0kr6900000-0kr69sssss 64ovg cers]
+[    0.932499] cpv_ohf 0000:10: erfbhepr 1 [zrz 0ksos00000-0ksossssss]
+[    0.932500] cpv_ohf 0000:10: erfbhepr 2 [zrz 0kr6500000-0kr65sssss 64ovg cers]
+[    0.932501] cpv_ohf 0000:11: erfbhepr 1 [zrz 0ksoo00000-0ksoosssss]
+[    0.932502] cpv_ohf 0000:11: erfbhepr 2 [zrz 0kr6100000-0kr61sssss 64ovg cers]
+[    0.932503] cpv_ohf 0000:12: erfbhepr 1 [zrz 0kso700000-0kso7sssss]
+[    0.932504] cpv_ohf 0000:12: erfbhepr 2 [zrz 0kr5q00000-0kr5qsssss 64ovg cers]
+[    0.932505] cpv_ohf 0000:13: erfbhepr 0 [vb  0k6000-0k6sss]
+[    0.932506] cpv_ohf 0000:13: erfbhepr 1 [zrz 0ksq200000-0ksq2sssss]
+[    0.932507] cpv_ohf 0000:13: erfbhepr 2 [zrz 0kr7800000-0kr78sssss 64ovg cers]
+[    0.932508] cpv_ohf 0000:14: erfbhepr 0 [vb  0kn000-0knsss]
+[    0.932508] cpv_ohf 0000:14: erfbhepr 1 [zrz 0kspr00000-0ksprsssss]
+[    0.932509] cpv_ohf 0000:14: erfbhepr 2 [zrz 0kr7400000-0kr74sssss 64ovg cers]
+[    0.932510] cpv_ohf 0000:15: erfbhepr 0 [vb  0kr000-0krsss]
+[    0.932511] cpv_ohf 0000:15: erfbhepr 1 [zrz 0kspn00000-0kspnsssss]
+[    0.932512] cpv_ohf 0000:15: erfbhepr 2 [zrz 0kr7000000-0kr70sssss 64ovg cers]
+[    0.932513] cpv_ohf 0000:16: erfbhepr 1 [zrz 0ksp600000-0ksp6sssss]
+[    0.932514] cpv_ohf 0000:16: erfbhepr 2 [zrz 0kr6p00000-0kr6psssss 64ovg cers]
+[    0.932515] cpv_ohf 0000:17: erfbhepr 1 [zrz 0ksp200000-0ksp2sssss]
+[    0.932516] cpv_ohf 0000:17: erfbhepr 2 [zrz 0kr6800000-0kr68sssss 64ovg cers]
+[    0.932517] cpv_ohf 0000:18: erfbhepr 1 [zrz 0ksor00000-0ksorsssss]
+[    0.932518] cpv_ohf 0000:18: erfbhepr 2 [zrz 0kr6400000-0kr64sssss 64ovg cers]
+[    0.932519] cpv_ohf 0000:19: erfbhepr 1 [zrz 0kson00000-0ksonsssss]
+[    0.932520] cpv_ohf 0000:19: erfbhepr 2 [zrz 0kr6000000-0kr60sssss 64ovg cers]
+[    0.932521] cpv_ohf 0000:1n: erfbhepr 1 [zrz 0kso600000-0kso6sssss]
+[    0.932522] cpv_ohf 0000:1n: erfbhepr 2 [zrz 0kr5p00000-0kr5psssss 64ovg cers]
+[    0.932523] cpv_ohf 0000:1o: erfbhepr 0 [vb  0k7000-0k7sss]
+[    0.932524] cpv_ohf 0000:1o: erfbhepr 1 [zrz 0ksq100000-0ksq1sssss]
+[    0.932525] cpv_ohf 0000:1o: erfbhepr 2 [zrz 0kr7700000-0kr77sssss 64ovg cers]
+[    0.932526] cpv_ohf 0000:1p: erfbhepr 0 [vb  0ko000-0kosss]
+[    0.932527] cpv_ohf 0000:1p: erfbhepr 1 [zrz 0kspq00000-0kspqsssss]
+[    0.932528] cpv_ohf 0000:1p: erfbhepr 2 [zrz 0kr7300000-0kr73sssss 64ovg cers]
+[    0.932529] cpv_ohf 0000:1q: erfbhepr 1 [zrz 0ksp900000-0ksp9sssss]
+[    0.932530] cpv_ohf 0000:1q: erfbhepr 2 [zrz 0kr6s00000-0kr6ssssss 64ovg cers]
+[    0.932531] cpv_ohf 0000:1r: erfbhepr 1 [zrz 0ksp500000-0ksp5sssss]
+[    0.932532] cpv_ohf 0000:1r: erfbhepr 2 [zrz 0kr6o00000-0kr6osssss 64ovg cers]
+[    0.932533] cpv_ohf 0000:1s: erfbhepr 1 [zrz 0ksp100000-0ksp1sssss]
+[    0.932534] cpv_ohf 0000:1s: erfbhepr 2 [zrz 0kr6700000-0kr67sssss 64ovg cers]
+[    0.932535] cpv_ohf 0000:20: erfbhepr 1 [zrz 0ksoq00000-0ksoqsssss]
+[    0.932536] cpv_ohf 0000:20: erfbhepr 2 [zrz 0kr6300000-0kr63sssss 64ovg cers]
+[    0.932537] cpv_ohf 0000:21: erfbhepr 1 [zrz 0kso900000-0kso9sssss]
+[    0.932538] cpv_ohf 0000:21: erfbhepr 2 [zrz 0kr5s00000-0kr5ssssss 64ovg cers]
+[    0.932539] cpv_ohf 0000:22: erfbhepr 1 [zrz 0kso500000-0kso5sssss]
+[    0.932539] cpv_ohf 0000:22: erfbhepr 2 [zrz 0kr5o00000-0kr5osssss 64ovg cers]
+[    0.932771] ARG: Ertvfgrerq cebgbpby snzvyl 2
+[    0.933473] gpc_yvfgra_cbegnqqe_unfu unfu gnoyr ragevrf: 1024 (beqre: 2, 16384 olgrf)
+[    0.933620] GPC rfgnoyvfurq unfu gnoyr ragevrf: 16384 (beqre: 5, 131072 olgrf)
+[    0.934717] GPC ovaq unfu gnoyr ragevrf: 16384 (beqre: 6, 262144 olgrf)
+[    0.936704] GPC: Unfu gnoyrf pbasvtherq (rfgnoyvfurq 16384 ovaq 16384)
+[    0.939345] HQC unfu gnoyr ragevrf: 1024 (beqre: 3, 32768 olgrf)
+[    0.939644] HQC-Yvgr unfu gnoyr ragevrf: 1024 (beqre: 3, 32768 olgrf)
+[    0.942057] ARG: Ertvfgrerq cebgbpby snzvyl 1
+[    0.942062] ARG: Ertvfgrerq cebgbpby snzvyl 44
+[    0.942067] cpv 0000:00:00.0: Yvzvgvat qverpg CPV/CPV genafsref
+[    0.942231] cpv 0000:00:0s.0: Ivqrb qrivpr jvgu funqbjrq EBZ ng [zrz 0k000p0000-0k000qssss]
+[    0.945151] CPV: PYF zvfzngpu (32 != 64), hfvat 64 olgrf
+[    0.946054] Hacnpxvat vavgenzsf...
+[    3.282477] Serrvat vavgeq zrzbel: 41004X
+[    3.315303] Vavgvnyvfr flfgrz gehfgrq xrlevatf
+[    3.317341] jbexvatfrg: gvzrfgnzc_ovgf=40 znk_beqre=19 ohpxrg_beqre=0
+[    3.336376] mohq: ybnqrq
+[    3.337596] cfgber: hfvat qrsyngr pbzcerffvba
+[    3.699621] Xrl glcr nflzzrgevp ertvfgrerq
+[    3.699623] Nflzzrgevp xrl cnefre 'k509' ertvfgrerq
+[    3.699945] Oybpx ynlre FPFV trarevp (oft) qevire irefvba 0.4 ybnqrq (znwbe 247)
+[    3.700216] vb fpurqhyre abbc ertvfgrerq
+[    3.700217] vb fpurqhyre qrnqyvar ertvfgrerq
+[    3.700314] vb fpurqhyre psd ertvfgrerq (qrsnhyg)
+[    3.700315] vb fpurqhyre zd-qrnqyvar ertvfgrerq
+[    3.733339] cpvrcbeg 0000:00:15.0: Fvtanyvat CZR jvgu VED 24
+[    3.733619] cpvrcbeg 0000:00:15.1: Fvtanyvat CZR jvgu VED 25
+[    3.733897] cpvrcbeg 0000:00:15.2: Fvtanyvat CZR jvgu VED 26
+[    3.734193] cpvrcbeg 0000:00:15.3: Fvtanyvat CZR jvgu VED 27
+[    3.734484] cpvrcbeg 0000:00:15.4: Fvtanyvat CZR jvgu VED 28
+[    3.734768] cpvrcbeg 0000:00:15.5: Fvtanyvat CZR jvgu VED 29
+[    3.735051] cpvrcbeg 0000:00:15.6: Fvtanyvat CZR jvgu VED 30
+[    3.735336] cpvrcbeg 0000:00:15.7: Fvtanyvat CZR jvgu VED 31
+[    3.735630] cpvrcbeg 0000:00:16.0: Fvtanyvat CZR jvgu VED 32
+[    3.735915] cpvrcbeg 0000:00:16.1: Fvtanyvat CZR jvgu VED 33
+[    3.736289] cpvrcbeg 0000:00:16.2: Fvtanyvat CZR jvgu VED 34
+[    3.736574] cpvrcbeg 0000:00:16.3: Fvtanyvat CZR jvgu VED 35
+[    3.736866] cpvrcbeg 0000:00:16.4: Fvtanyvat CZR jvgu VED 36
+[    3.737150] cpvrcbeg 0000:00:16.5: Fvtanyvat CZR jvgu VED 37
+[    3.737588] cpvrcbeg 0000:00:16.6: Fvtanyvat CZR jvgu VED 38
+[    3.737904] cpvrcbeg 0000:00:16.7: Fvtanyvat CZR jvgu VED 39
+[    3.738186] cpvrcbeg 0000:00:17.0: Fvtanyvat CZR jvgu VED 40
+[    3.738485] cpvrcbeg 0000:00:17.1: Fvtanyvat CZR jvgu VED 41
+[    3.738769] cpvrcbeg 0000:00:17.2: Fvtanyvat CZR jvgu VED 42
+[    3.739065] cpvrcbeg 0000:00:17.3: Fvtanyvat CZR jvgu VED 43
+[    3.739348] cpvrcbeg 0000:00:17.4: Fvtanyvat CZR jvgu VED 44
+[    3.739644] cpvrcbeg 0000:00:17.5: Fvtanyvat CZR jvgu VED 45
+[    3.739929] cpvrcbeg 0000:00:17.6: Fvtanyvat CZR jvgu VED 46
+[    3.740254] cpvrcbeg 0000:00:17.7: Fvtanyvat CZR jvgu VED 47
+[    3.740532] cpvrcbeg 0000:00:18.0: Fvtanyvat CZR jvgu VED 48
+[    3.740811] cpvrcbeg 0000:00:18.1: Fvtanyvat CZR jvgu VED 49
+[    3.741099] cpvrcbeg 0000:00:18.2: Fvtanyvat CZR jvgu VED 50
+[    3.741381] cpvrcbeg 0000:00:18.3: Fvtanyvat CZR jvgu VED 51
+[    3.741719] cpvrcbeg 0000:00:18.4: Fvtanyvat CZR jvgu VED 52
+[    3.741999] cpvrcbeg 0000:00:18.5: Fvtanyvat CZR jvgu VED 53
+[    3.742318] cpvrcbeg 0000:00:18.6: Fvtanyvat CZR jvgu VED 54
+[    3.742807] cpvrcbeg 0000:00:18.7: Fvtanyvat CZR jvgu VED 55
+[    3.742969] cpvruc 0000:00:15.0:cpvr004: Fybg #160 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.743431] cpvruc 0000:00:15.1:cpvr004: Fybg #161 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.743831] cpvruc 0000:00:15.2:cpvr004: Fybg #162 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.744163] cpvruc 0000:00:15.3:cpvr004: Fybg #163 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.744492] cpvruc 0000:00:15.4:cpvr004: Fybg #164 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.744984] cpvruc 0000:00:15.5:cpvr004: Fybg #165 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.745441] cpvruc 0000:00:15.6:cpvr004: Fybg #166 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.745814] cpvruc 0000:00:15.7:cpvr004: Fybg #167 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.746153] cpvruc 0000:00:16.0:cpvr004: Fybg #192 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.746543] cpvruc 0000:00:16.1:cpvr004: Fybg #193 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.746874] cpvruc 0000:00:16.2:cpvr004: Fybg #194 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.747250] cpvruc 0000:00:16.3:cpvr004: Fybg #195 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.747602] cpvruc 0000:00:16.4:cpvr004: Fybg #196 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.747953] cpvruc 0000:00:16.5:cpvr004: Fybg #197 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.748267] cpvruc 0000:00:16.6:cpvr004: Fybg #198 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.748575] cpvruc 0000:00:16.7:cpvr004: Fybg #199 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.748997] cpvruc 0000:00:17.0:cpvr004: Fybg #224 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.749484] cpvruc 0000:00:17.1:cpvr004: Fybg #225 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.750087] cpvruc 0000:00:17.2:cpvr004: Fybg #226 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.750988] cpvruc 0000:00:17.3:cpvr004: Fybg #227 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.751392] cpvruc 0000:00:17.4:cpvr004: Fybg #228 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.751676] cpvruc 0000:00:17.5:cpvr004: Fybg #229 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.751992] cpvruc 0000:00:17.6:cpvr004: Fybg #230 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.752313] cpvruc 0000:00:17.7:cpvr004: Fybg #231 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.752621] cpvruc 0000:00:18.0:cpvr004: Fybg #256 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.752936] cpvruc 0000:00:18.1:cpvr004: Fybg #257 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.753365] cpvruc 0000:00:18.2:cpvr004: Fybg #258 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.753810] cpvruc 0000:00:18.3:cpvr004: Fybg #259 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.754134] cpvruc 0000:00:18.4:cpvr004: Fybg #260 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.754448] cpvruc 0000:00:18.5:cpvr004: Fybg #261 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.754752] cpvruc 0000:00:18.6:cpvr004: Fybg #262 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.755059] cpvruc 0000:00:18.7:cpvr004: Fybg #263 NggaOga+ CjePgey+ ZEY- NggaVaq- CjeVaq- UbgCyht+ Fhecevfr- Vagreybpx- AbPbzcy+ YYNpgErc+
+[    3.755448] fucpuc: Fgnaqneq Ubg Cyht CPV Pbagebyyre Qevire irefvba: 0.4
+[    3.755462] vagry_vqyr: Cyrnfr ranoyr ZJNVG va OVBF FRGHC
+[    3.756548] Frevny: 8250/16550 qevire, 4 cbegf, VED funevat ranoyrq
+[    3.757708] Yvahk ntctneg vagresnpr i0.103
+[    3.757906] ntctneg-vagry 0000:00:00.0: Vagry 440OK Puvcfrg
+[    3.759039] ntctneg-vagry 0000:00:00.0: NTC ncregher vf 256Z @ 0k0
+[    3.759082] NZQ VBZZHi2 qevire ol Wbret Ebrqry <webrqry@fhfr.qr>
+[    3.759083] NZQ VBZZHi2 shapgvbanyvgl abg ninvynoyr ba guvf flfgrz
+[    3.759617] v8042: CAC: CF/2 Pbagebyyre [CAC0303:XOP,CAC0s13:ZBHF] ng 0k60,0k64 ved 1,12
+[    3.760631] frevb: v8042 XOQ cbeg ng 0k60,0k64 ved 1
+[    3.760660] frevb: v8042 NHK cbeg ng 0k60,0k64 ved 12
+[    3.760904] zbhfrqri: CF/2 zbhfr qrivpr pbzzba sbe nyy zvpr
+[    3.782289] egp_pzbf 00:01: ertvfgrerq nf egp0
+[    3.782311] egp_pzbf 00:01: nynezf hc gb bar zbagu, l3x, 114 olgrf aienz, ucrg vedf
+[    3.782821] yrqgevt-pch: ertvfgrerq gb vaqvpngr npgvivgl ba PCHf
+[    3.783356] vachg: NG Genafyngrq Frg 2 xrlobneq nf /qrivprf/cyngsbez/v8042/frevb0/vachg/vachg0
+[    3.785595] ARG: Ertvfgrerq cebgbpby snzvyl 10
+[    3.797612] Frtzrag Ebhgvat jvgu VCi6
+[    3.797631] zvc6: Zbovyr VCi6
+[    3.797633] ARG: Ertvfgrerq cebgbpby snzvyl 17
+[    3.797861] zcyf_tfb: ZCYF TFB fhccbeg
+[    3.798715] fpurq_pybpx: Znexvat fgnoyr (3791467072, 6933946)->(3807824725, -9423707)
+[    3.800533] ertvfgrerq gnfxfgngf irefvba 1
+[    3.800534] Ybnqvat pbzcvyrq-va K.509 pregvsvpngrf
+[    3.828983] Ybnqrq K.509 preg 'Qrovna Frpher Obbg PN: 6pprpr7r4p6p0q1s6149s3qq27qspp5poo419rn1'
+[    3.828998] Ybnqrq K.509 preg 'Qrovna Frpher Obbg Fvtare: 00n7468qrs'
+[    3.829026] mfjnc: ybnqrq hfvat cbby ymb/mohq
+[    3.829911] NccNezbe: NccNezbe fun1 cbyvpl unfuvat ranoyrq
+[    3.831662] egp_pzbf 00:01: frggvat flfgrz pybpx gb 2020-07-31 12:20:05 HGP (1596198005)
+[    3.833310] Serrvat hahfrq xreary vzntr zrzbel: 1576X
+[    3.868099] Jevgr cebgrpgvat gur xreary ernq-bayl qngn: 16384x
+[    3.868906] Serrvat hahfrq xreary vzntr zrzbel: 2028X
+[    3.869226] Serrvat hahfrq xreary vzntr zrzbel: 824X
+[    3.875729] k86/zz: Purpxrq J+K znccvatf: cnffrq, ab J+K cntrf sbhaq.
+[    3.875732] k86/zz: Purpxvat hfre fcnpr cntr gnoyrf
+[    3.881215] k86/zz: Purpxrq J+K znccvatf: cnffrq, ab J+K cntrf sbhaq.
+[    3.881217] Eha /vavg nf vavg cebprff
+[    4.090070] cvvk4_fzohf 0000:00:07.3: FZOhf Ubfg Pbagebyyre abg ranoyrq!
+[    4.090105] FPFV fhoflfgrz vavgvnyvmrq
+[    4.094875] r1000: Vagry(E) CEB/1000 Argjbex Qevire - irefvba 7.3.21-x8-ANCV
+[    4.094876] r1000: Pbclevtug (p) 1999-2006 Vagry Pbecbengvba.
+[    4.106245] yvongn irefvba 3.00 ybnqrq.
+[    4.107658] ngn_cvvk 0000:00:07.1: irefvba 2.13
+[    4.108237] Shfvba ZCG onfr qevire 3.04.20
+[    4.108238] Pbclevtug (p) 1999-2008 YFV Pbecbengvba
+[    4.122242] Shfvba ZCG FCV Ubfg qevire 3.04.20
+[    4.124812] fpfv ubfg0: ngn_cvvk
+[    4.125383] NPCV: ohf glcr HFO ertvfgrerq
+[    4.125409] hfopber: ertvfgrerq arj vagresnpr qevire hfosf
+[    4.125420] hfopber: ertvfgrerq arj vagresnpr qevire uho
+[    4.125569] hfopber: ertvfgrerq arj qrivpr qevire hfo
+[    4.131621] zcgonfr: vbp0: Vavgvngvat oevathc
+[    4.139694] fpfv ubfg1: ngn_cvvk
+[    4.139803] ngn1: CNGN znk HQZN/33 pzq 0k1s0 pgy 0k3s6 ozqzn 0k1060 ved 14
+[    4.139805] ngn2: CNGN znk HQZN/33 pzq 0k170 pgy 0k376 ozqzn 0k1068 ved 15
+[    4.141812] rupv_upq: HFO 2.0 'Raunaprq' Ubfg Pbagebyyre (RUPV) Qevire
+[    4.151499] hupv_upq: HFO Havirefny Ubfg Pbagebyyre Vagresnpr qevire
+[    4.152381] hupv_upq 0000:02:00.0: HUPV Ubfg Pbagebyyre
+[    4.152389] hupv_upq 0000:02:00.0: arj HFO ohf ertvfgrerq, nffvtarq ohf ahzore 1
+[    4.152478] hupv_upq 0000:02:00.0: qrgrpgrq 2 cbegf
+[    4.154352] pelcgq: znk_pch_dyra frg gb 1000
+[    4.155696] hupv_upq 0000:02:00.0: ved 18, vb onfr 0k00002080
+[    4.156444] hfo hfo1: Arj HFO qrivpr sbhaq, vqIraqbe=1q6o, vqCebqhpg=0001, opqQrivpr= 4.19
+[    4.156446] hfo hfo1: Arj HFO qrivpr fgevatf: Zse=3, Cebqhpg=2, FrevnyAhzore=1
+[    4.156447] hfo hfo1: Cebqhpg: HUPV Ubfg Pbagebyyre
+[    4.156448] hfo hfo1: Znahsnpghere: Yvahk 4.19.0-xnyv4-nzq64 hupv_upq
+[    4.156449] hfo hfo1: FrevnyAhzore: 0000:02:00.0
+[    4.156663] uho 1-0:1.0: HFO uho sbhaq
+[    4.156669] uho 1-0:1.0: 2 cbegf qrgrpgrq
+[    4.159574] vachg: IveghnyCF/2 IZjner IZZbhfr nf /qrivprf/cyngsbez/v8042/frevb1/vachg/vachg3
+[    4.161863] vachg: IveghnyCF/2 IZjner IZZbhfr nf /qrivprf/cyngsbez/v8042/frevb1/vachg/vachg2
+[    4.167620] NIK2 irefvba bs tpz_rap/qrp ratntrq.
+[    4.167621] NRF PGE zbqr ol8 bcgvzvmngvba ranoyrq
+[    4.172007] rupv-cpv: RUPV CPV cyngsbez qevire
+[    4.172646] rupv-cpv 0000:02:03.0: RUPV Ubfg Pbagebyyre
+[    4.172655] rupv-cpv 0000:02:03.0: arj HFO ohf ertvfgrerq, nffvtarq ohf ahzore 2
+[    4.173115] rupv-cpv 0000:02:03.0: pnpur yvar fvmr bs 64 vf abg fhccbegrq
+[    4.173140] rupv-cpv 0000:02:03.0: ved 17, vb zrz 0ksq5rs000
+[    4.187610] rupv-cpv 0000:02:03.0: HFO 2.0 fgnegrq, RUPV 1.00
+[    4.187719] hfo hfo2: Arj HFO qrivpr sbhaq, vqIraqbe=1q6o, vqCebqhpg=0002, opqQrivpr= 4.19
+[    4.187721] hfo hfo2: Arj HFO qrivpr fgevatf: Zse=3, Cebqhpg=2, FrevnyAhzore=1
+[    4.187723] hfo hfo2: Cebqhpg: RUPV Ubfg Pbagebyyre
+[    4.187724] hfo hfo2: Znahsnpghere: Yvahk 4.19.0-xnyv4-nzq64 rupv_upq
+[    4.187725] hfo hfo2: FrevnyAhzore: 0000:02:03.0
+[    4.188069] uho 2-0:1.0: HFO uho sbhaq
+[    4.188079] uho 2-0:1.0: 6 cbegf qrgrpgrq
+[    4.221734] nyt: Ab grfg sbe cpop(nrf) (cpop-nrf-nrfav)
+[    4.240284] vbp0: YFV53P1030 O0: Pncnovyvgvrf={Vavgvngbe}
+[    4.304771] gfp: Ersvarq GFP pybpxfbhepr pnyvoengvba: 2699.822 ZUm
+[    4.304856] pybpxfbhepr: gfp: znfx: 0kssssssssssssssss znk_plpyrf: 0k26rn965p7rq, znk_vqyr_af: 440795235155 af
+[    4.304946] pybpxfbhepr: Fjvgpurq gb pybpxfbhepr gfp
+[    4.322556] ngn2.00: NGNCV: IZjner Iveghny VQR PQEBZ Qevir, 00000001, znk HQZN/33
+[    4.328582] fpfv 1:0:0:0: PQ-EBZ            ARPIZJne IZjner VQR PQE10 1.00 CD: 0 NAFV: 5
+[    4.482173] fpfv ubfg2: vbp0: YFV53P1030 O0, SjEri=01032920u, Cbegf=1, ZnkD=128, VED=17
+[    4.492100] hfo 1-1: arj shyy-fcrrq HFO qrivpr ahzore 2 hfvat hupv_upq
+[    4.538293] fe 1:0:0:0: [fe0] fpfv3-zzp qevir: 1k/1k jevgre qiq-enz pq/ej kn/sbez2 pqqn genl
+[    4.538296] pqebz: Havsbez PQ-EBZ qevire Erivfvba: 3.20
+[    4.539044] fe 1:0:0:0: Nggnpurq fpfv PQ-EBZ fe0
+[    4.580873] r1000 0000:02:01.0 rgu0: (CPV:66ZUm:32-ovg) 00:0p:29:4p:85:o8
+[    4.580879] r1000 0000:02:01.0 rgu0: Vagry(E) CEB/1000 Argjbex Pbaarpgvba
+[    4.651336] hfo 1-1: Arj HFO qrivpr sbhaq, vqIraqbe=0r0s, vqCebqhpg=0003, opqQrivpr= 1.03
+[    4.651338] hfo 1-1: Arj HFO qrivpr fgevatf: Zse=1, Cebqhpg=2, FrevnyAhzore=0
+[    4.651340] hfo 1-1: Cebqhpg: IZjner Iveghny HFO Zbhfr
+[    4.651341] hfo 1-1: Znahsnpghere: IZjner
+[    4.652554] fpfv 2:0:0:0: Qverpg-Npprff     IZjner,  IZjner Iveghny F 1.0  CD: 0 NAFV: 2
+[    4.659860] uvqenj: enj UVQ riragf qevire (P) Wvev Xbfvan
+[    4.663504] hfopber: ertvfgrerq arj vagresnpr qevire hfouvq
+[    4.663505] hfouvq: HFO UVQ pber qevire
+[    4.665736] vachg: IZjner IZjner Iveghny HFO Zbhfr nf /qrivprf/cpv0000:00/0000:00:11.0/0000:02:00.0/hfo1/1-1/1-1:1.0/0003:0R0S:0003.0001/vachg/vachg4
+[    4.665832] uvq-trarevp 0003:0R0S:0003.0001: vachg,uvqenj0: HFO UVQ i1.10 Zbhfr [IZjner IZjner Iveghny HFO Zbhfr] ba hfo-0000:02:00.0-1/vachg0
+[    4.696219] fpfv gnetrg2:0:0: Ortvaavat Qbznva Inyvqngvba
+[    4.700166] fpfv gnetrg2:0:0: Qbznva Inyvqngvba fxvccvat jevgr grfgf
+[    4.700168] fpfv gnetrg2:0:0: Raqvat Qbznva Inyvqngvba
+[    4.700324] fpfv gnetrg2:0:0: SNFG-40 JVQR FPFV 80.0 ZO/f FG (25 af, bssfrg 127)
+[    4.712722] fq 2:0:0:0: [fqn] 167772160 512-olgr ybtvpny oybpxf: (85.9 TO/80.0 TvO)
+[    4.712781] fq 2:0:0:0: [fqn] Jevgr Cebgrpg vf bss
+[    4.712782] fq 2:0:0:0: [fqn] Zbqr Frafr: 61 00 00 00
+[    4.712953] fq 2:0:0:0: [fqn] Pnpur qngn haninvynoyr
+[    4.712954] fq 2:0:0:0: [fqn] Nffhzvat qevir pnpur: jevgr guebhtu
+[    4.718173]  fqn: fqn1 fqn2 < fqn5 >
+[    4.720340] fq 2:0:0:0: [fqn] Nggnpurq FPFV qvfx
+[    4.784048] hfo 1-2: arj shyy-fcrrq HFO qrivpr ahzore 3 hfvat hupv_upq
+[    4.838396] CZ: Vzntr abg sbhaq (pbqr -22)
+[    4.929078] RKG4-sf (fqn1): zbhagrq svyrflfgrz jvgu beqrerq qngn zbqr. Bcgf: (ahyy)
+[    4.949702] hfo 1-2: Arj HFO qrivpr sbhaq, vqIraqbe=0r0s, vqCebqhpg=0002, opqQrivpr= 1.00
+[    4.949704] hfo 1-2: Arj HFO qrivpr fgevatf: Zse=1, Cebqhpg=2, FrevnyAhzore=0
+[    4.949705] hfo 1-2: Cebqhpg: IZjner Iveghny HFO Uho
+[    4.949706] hfo 1-2: Znahsnpghere: IZjner, Vap.
+[    4.954961] uho 1-2:1.0: HFO uho sbhaq
+[    4.957277] uho 1-2:1.0: 7 cbegf qrgrpgrq
+[    5.104672] flfgrzq[1]: Vafregrq zbqhyr 'nhgbsf4'
+[    5.124865] flfgrzq[1]: flfgrzq 241 ehaavat va flfgrz zbqr. (+CNZ +NHQVG +FRYVAHK +VZN +NCCNEZBE +FZNPX +FLFIVAVG +HGZC +YVOPELCGFRGHC +TPELCG +TAHGYF +NPY +KM +YM4 +FRPPBZC +OYXVQ +RYSHGVYF +XZBQ -VQA2 +VQA -CPER2 qrsnhyg-uvrenepul=uloevq)
+[    5.124895] flfgrzq[1]: Qrgrpgrq iveghnyvmngvba izjner.
+[    5.124901] flfgrzq[1]: Qrgrpgrq nepuvgrpgher k86-64.
+[    5.145307] flfgrzq[1]: Frg ubfganzr gb <xnyv>.
+[    5.297015] hfo 1-2.1: arj shyy-fcrrq HFO qrivpr ahzore 4 hfvat hupv_upq
+[    5.418139] hfo 1-2.1: Arj HFO qrivpr sbhaq, vqIraqbe=0r0s, vqCebqhpg=0008, opqQrivpr= 1.00
+[    5.418141] hfo 1-2.1: Arj HFO qrivpr fgevatf: Zse=1, Cebqhpg=2, FrevnyAhzore=3
+[    5.418143] hfo 1-2.1: Cebqhpg: Iveghny Oyhrgbbgu Nqncgre
+[    5.418144] hfo 1-2.1: Znahsnpghere: IZjner
+[    5.418146] hfo 1-2.1: FrevnyAhzore: 000650268328
+[    5.448775] flfgrzq[1]: Yvfgravat ba vavgpgy Pbzcngvovyvgl Anzrq Cvcr.
+[    5.448943] flfgrzq[1]: Yvfgravat ba Wbheany Nhqvg Fbpxrg.
+[    5.448984] flfgrzq[1]: Fgnegrq Sbejneq Cnffjbeq Erdhrfgf gb Jnyy Qverpgbel Jngpu.
+[    5.448993] flfgrzq[1]: Ernpurq gnetrg Erzbgr Svyr Flfgrzf.
+[    5.449060] flfgrzq[1]: Yvfgravat ba YIZ2 cbyy qnrzba fbpxrg.
+[    5.449119] flfgrzq[1]: Yvfgravat ba sfpx gb sfpxq pbzzhavpngvba Fbpxrg.
+[    5.480263] RKG4-sf (fqn1): er-zbhagrq. Bcgf: reebef=erzbhag-eb
+[    5.489703] shfr vavg (NCV irefvba 7.27)
+[    5.643327] [qez] QZN znc zbqr: Hfvat culfvpny GGZ cntr nqqerffrf.
+[    5.643551] [qez] Pncnovyvgvrf:
+[    5.643552] [qez]   Erpg pbcl.
+[    5.643552] [qez]   Phefbe.
+[    5.643552] [qez]   Phefbe olcnff.
+[    5.643553] [qez]   Phefbe olcnff 2.
+[    5.643553] [qez]   8ovg rzhyngvba.
+[    5.643553] [qez]   Nycun phefbe.
+[    5.643554] [qez]   3Q.
+[    5.643554] [qez]   Rkgraqrq Svsb.
+[    5.643554] [qez]   Zhygvzba.
+[    5.643555] [qez]   Cvgpuybpx.
+[    5.643555] [qez]   Ved znfx.
+[    5.643555] [qez]   Qvfcynl Gbcbybtl.
+[    5.643556] [qez]   TZE.
+[    5.643556] [qez]   Genprf.
+[    5.643556] [qez]   TZE2.
+[    5.643557] [qez]   Fperra Bowrpg 2.
+[    5.643557] [qez]   Pbzznaq Ohssref.
+[    5.643557] [qez]   Pbzznaq Ohssref 2.
+[    5.643558] [qez]   Thrfg Onpxrq Erfbheprf.
+[    5.643558] [qez]   QK Srngherf.
+[    5.643558] [qez]   UC Pbzznaq Dhrhr.
+[    5.643559] [qez] Pncnovyvgvrf2:
+[    5.643559] [qez]   Tebj bGnoyr.
+[    5.643559] [qez]   VagenFhesnpr pbcl.
+[    5.643561] [qez] Znk TZE vqf vf 64
+[    5.643561] [qez] Znk ahzore bs TZE cntrf vf 65536
+[    5.643562] [qez] Znk qrqvpngrq ulcreivfbe fhesnpr zrzbel vf 0 xvO
+[    5.643563] [qez] Znkvzhz qvfcynl zrzbel fvmr vf 262144 xvO
+[    5.643564] [qez] IENZ ng 0kr8000000 fvmr vf 4096 xvO
+[    5.643564] [qez] ZZVB ng 0ksr000000 fvmr vf 256 xvO
+[    5.643566] [qez] tybony vavg.
+[    5.643648] [GGZ] Mbar  xreary: Ninvynoyr tencuvpf zrzbel: 1009380 xvO
+[    5.643649] [GGZ] Vavgvnyvmvat cbby nyybpngbe
+[    5.643653] [GGZ] Vavgvnyvmvat QZN cbby nyybpngbe
+[    5.643899] [qez] Fhccbegf ioynax gvzrfgnzc pnpuvat Eri 2 (21.10.2013).
+[    5.643900] [qez] Ab qevire fhccbeg sbe ioynax gvzrfgnzc dhrel.
+[    5.644223] [qez] Fperra Gnetrg Qvfcynl qrivpr vavgvnyvmrq
+[    5.644277] [qez] jvqgu 640
+[    5.644283] [qez] urvtug 480
+[    5.644290] [qez] occ 32
+[    5.647016] [qez] Svsb znk 0k00040000 zva 0k00001000 pnc 0k0000077s
+[    5.647909] [qez] Hfvat pbzznaq ohssref jvgu QZN cbby.
+[    5.649234] [qez] QK: lrf.
+[    5.649243] [qez] Ngbzvp: lrf.
+[    5.649244] [qez] FZ4_1: lrf.
+[    5.666367] sopba: fitnqezso (so0) vf cevznel qrivpr
+[    5.671786] Pbafbyr: fjvgpuvat gb pbybhe senzr ohssre qrivpr 100k37
+[    5.705640] [qez] Vavgvnyvmrq izjtsk 2.15.0 20180704 sbe 0000:00:0s.0 ba zvabe 0
+[    6.153500] flfgrzq-wbheanyq[307]: Erprvirq erdhrfg gb syhfu ehagvzr wbheany sebz CVQ 1
+[    6.363609] vachg: Cbjre Ohggba nf /qrivprf/YAKFLFGZ:00/YAKCJEOA:00/vachg/vachg5
+[    6.363650] NPCV: Cbjre Ohggba [CJES]
+[    6.381476] NPCV: NP Nqncgre [NPNQ] (bss-yvar)
+[    6.948300] onggrel: NPCV: Onggrel Fybg [ONG1] (onggrel cerfrag)
+[    7.128675] izj_izpv 0000:00:07.7: Sbhaq IZPV CPV qrivpr ng 0k11080, ved 16
+[    7.128811] izj_izpv 0000:00:07.7: Hfvat pncnovyvgvrf 0k8000000p
+[    7.130786] Thrfg crefbanyvgl vavgvnyvmrq naq vf npgvir
+[    7.132356] IZPV ubfg qrivpr ertvfgrerq (anzr=izpv, znwbe=10, zvabe=58)
+[    7.132357] Vavgvnyvmrq ubfg crefbanyvgl
+[    7.505410] fe 1:0:0:0: Nggnpurq fpfv trarevp ft0 glcr 5
+[    7.507461] fq 2:0:0:0: Nggnpurq fpfv trarevp ft1 glcr 0
+[    7.600788] vachg: CP Fcrnxre nf /qrivprf/cyngsbez/cpfcxe/vachg/vachg6
+[    7.608365] ENCY CZH: NCV havg vf 2^-32 Wbhyrf, 4 svkrq pbhagref, 10737418240 zf bisy gvzre
+[    7.608367] ENCY CZH: uj havg bs qbznva cc0-pber 2^-0 Wbhyrf
+[    7.608368] ENCY CZH: uj havg bs qbznva cnpxntr 2^-0 Wbhyrf
+[    7.608369] ENCY CZH: uj havg bs qbznva qenz 2^-0 Wbhyrf
+[    7.608369] ENCY CZH: uj havg bs qbznva cc1-tch 2^-0 Wbhyrf
+[    7.700919] ARG: Ertvfgrerq cebgbpby snzvyl 40
+[    7.956055] Nqqvat 2094076x fjnc ba /qri/fqn5.  Cevbevgl:-2 rkgragf:1 npebff:2094076x SF
+[    8.067597] Oyhrgbbgu: Pber ire 2.22
+[    8.067614] ARG: Ertvfgrerq cebgbpby snzvyl 31
+[    8.067615] Oyhrgbbgu: UPV qrivpr naq pbaarpgvba znantre vavgvnyvmrq
+[    8.067620] Oyhrgbbgu: UPV fbpxrg ynlre vavgvnyvmrq
+[    8.067622] Oyhrgbbgu: Y2PNC fbpxrg ynlre vavgvnyvmrq
+[    8.067627] Oyhrgbbgu: FPB fbpxrg ynlre vavgvnyvmrq
+[    8.186584] hfopber: ertvfgrerq arj vagresnpr qevire oghfo
+[    9.534271] VCi6: NQQEPBAS(ARGQRI_HC): rgu0: yvax vf abg ernql
+[    9.550511] r1000: rgu0 AVP Yvax vf Hc 1000 Zocf Shyy Qhcyrk, Sybj Pbageby: Abar
+[    9.558100] VCi6: NQQEPBAS(ARGQRI_HC): rgu0: yvax vf abg ernql
+[    9.558163] VCi6: NQQEPBAS(ARGQRI_PUNATR): rgu0: yvax orpbzrf ernql
+[   66.242299] esxvyy: vachg unaqyre qvfnoyrq
+[  226.797560] esxvyy: vachg unaqyre ranoyrq
+[  304.826255] esxvyy: vachg unaqyre qvfnoyrq
+[ 2344.062749] hfo 1-2.1: erfrg shyy-fcrrq HFO qrivpr ahzore 4 hfvat hupv_upq
+[ 2345.208100] r1000: rgu0 AVP Yvax vf Qbja
+[ 2347.218648] r1000: rgu0 AVP Yvax vf Hc 1000 Zocf Shyy Qhcyrk, Sybj Pbageby: Abar
+[12034.578362] hfo 1-2.1: erfrg shyy-fcrrq HFO qrivpr ahzore 4 hfvat hupv_upq
