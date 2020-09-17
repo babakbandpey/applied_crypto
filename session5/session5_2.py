@@ -19,7 +19,7 @@ p = 23
 
 firstname = input("Type your firstname: ")
 
-counterpart_name = input("Type your counter part name: ")
+counterpart_name = input("Type your counterpart name: ")
 
 my_private_key = generate_private_key()
 
