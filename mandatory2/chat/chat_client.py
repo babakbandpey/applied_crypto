@@ -3,7 +3,8 @@
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
 import tkinter
-
+import dh_utils
+import json
 
 def receive():
     """Handles receiving of messages."""
@@ -55,12 +56,16 @@ top.protocol("WM_DELETE_WINDOW", on_closing)
 #----Now comes the sockets part----
 HOST = input('Enter host: ')
 PORT = input('Enter port: ')
+
+if not HOST:
+    HOST = "127.0.0.1"
+
 if not PORT:
     PORT = 33000
 else:
     PORT = int(PORT)
 
-BUFSIZ = 1024
+BUFSIZ = 2048
 ADDR = (HOST, PORT)
 
 client_socket = socket(AF_INET, SOCK_STREAM)
@@ -68,4 +73,54 @@ client_socket.connect(ADDR)
 
 receive_thread = Thread(target=receive)
 receive_thread.start()
+
+"""
+Implementing secret key handshake
+Generate g as base number
+Generate private key
+Get p as a Safe Prime modulu
+Generate public key
+send the g, p and public key to the server
+expect a response
+calculate a secret key with the server's sessions public key
+"""
+
+# g = dh_utils.get_random_base()
+g = 2
+private_key = dh_utils.generate_private_key()
+p = dh_utils.get_random_safe_prime()["p"]
+
+public_key = dh_utils.calc_public_key(private_key, g, p)
+
+print(public_key)
+
+handshake = {
+    "data": {
+        "type": "INIT_HANDSHAKE",
+        "g": g,
+        "p": p,
+        "public_key": public_key
+    }
+}
+print(private_key)
+print(handshake)
+client_socket.send(bytes(json.dumps(handshake), "utf8"))
+
+"""
+Expecting to receive the handshake response
+"""
+msg = client_socket.recv(BUFSIZ).decode("utf8")
+msg = json.loads(msg)
+
+if "data" in msg and "type" in msg["data"] and msg["data"]["type"] == "HANDSHAKE_RESPONSE" and "server_public_key" in msg["data"]:
+    handshake_response = msg["data"]
+    msg = ""
+    secret_key = dh_utils.calc_secret_key(handshake_response["server_public_key"], private_key, p)
+    print(handshake_response)
+    print("Secret key:", secret_key)
+
+    print(dh_utils.encrypt_msg(secret_key, "DO YOU READ ME?"))
+
+    client_socket.send(bytes(dh_utils.encrypt_msg(secret_key, "DO YOU READ ME?"), "utf8"))
+
 tkinter.mainloop()  # Starts GUI execution.
