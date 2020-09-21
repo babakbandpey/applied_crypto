@@ -3,8 +3,8 @@
 
 from random import randrange
 
-def generate_private_key():
-    return randrange(1, 100)
+def generate_private_key(min = 2, max = 10):
+    return randrange(min, max)
 
 def calc_public_key(private_key, g, p):
     return (g ** private_key) % p

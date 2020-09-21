@@ -41,8 +41,6 @@ try:
     key_f.write(key)
     key_f.close()
 
-
-
 except IOError:
     print("File not accessible")
     
