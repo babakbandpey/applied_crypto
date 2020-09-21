@@ -1,16 +1,24 @@
 #!/usr/bin/env python3
 """Server for multithreaded (asynchronous) chat application."""
-from socket import AF_INET, socket, SOCK_STREAM
+from socket import AF_INET, socket, SOCK_STREAM, error as SocketError
 from threading import Thread
 import dh_utils
 import json
+from signal import signal, SIGINT
+from sys import exit
+
+
+def handler(signal_received, frame):
+    # Handle any cleanup here
+    SERVER.close()
+    print('SIGINT or CTRL-C detected. Exiting gracefully')
+    exit(0)
 
 def accept_incoming_connections():
     """Sets up handling for incoming clients."""
     while True:
         client, client_address = SERVER.accept()
-        print("%s:%s has connected." % client_address)
-        client.send(bytes("Greetings from the cave! Now type your name and press enter!", "utf8"))
+        print("%s:%s has connected." % client_address)        
         addresses[client] = client_address
         Thread(target=handle_client, args=(client,)).start()
 
@@ -31,7 +39,7 @@ def handle_client(client):  # Takes client socket as argument.
         session_public_key = dh_utils.calc_public_key(session_private_key, handshake["g"], handshake["p"])
         session_secret_key = dh_utils.calc_secret_key(handshake["public_key"], session_private_key, handshake["p"])
 
-        handshake["session_secret_key"] = session_secret_key
+        handshake["box"] = dh_utils.create_secret_box(session_secret_key)
 
         handshake_response = {
             "data": {
@@ -45,60 +53,104 @@ def handle_client(client):  # Takes client socket as argument.
         """
         client.send(bytes(json.dumps(handshake_response), "utf8"))
 
-
         """
         Waiting for the confirmation
         DO YOU READ ME?
         """
 
-        msg = client.recv(BUFSIZ).decode("utf8")
+        if dh_utils.decrypt_msg(handshake["box"], client.recv(BUFSIZ)) == "DO YOU READ ME?":
 
-        print(dh_utils.decrypt_msg(session_secret_key, msg))
+            """
+            Replying
+            ROGER, ROGER, ROGER
+            """
 
-        name = client.recv(BUFSIZ).decode("utf8")
-        handshake["name"] = name
+            client.send(
+                dh_utils.encrypt_msg(
+                    handshake["box"], 
+                    "ROGER, ROGER, ROGER"
+                )
+            )
 
-        welcome = 'Welcome %s! If you ever want to quit, type {quit} to exit.' % name
-        client.send(bytes(welcome, "utf8"))
-        msg = "%s has joined the chat!" % name
-        broadcast(bytes(msg, "utf8"))
-        clients[client] = handshake
+            dh_utils.decrypt_msg(handshake["box"], client.recv(BUFSIZ))
 
-        while True:
-            msg = client.recv(BUFSIZ)
-            print(msg)
-            if msg != bytes("{quit}", "utf8"):
-                broadcast(msg, name+": ")
-            else:
-                client.send(bytes("{quit}", "utf8"))
-                client.close()
-                del clients[client]
-                broadcast(bytes("%s has left the chat." % name, "utf8"))
-                break
+            client.send(
+                dh_utils.encrypt_msg(
+                    handshake["box"], 
+                    "Greetings from the cave! Now type your name and press enter!"
+                )
+            )
+
+            name = dh_utils.decrypt_msg(handshake["box"], client.recv(BUFSIZ))
+            handshake["name"] = name
+
+            client.send(
+                dh_utils.encrypt_msg(
+                    handshake["box"], 
+                    'Welcome %s! If you ever want to quit, type {quit} to exit.' % name
+                )
+            )
+            
+            msg = "%s has joined the chat!" % name
+            broadcast(msg)
+
+            clients[client] = handshake
+
+            while True:
+                msg = dh_utils.decrypt_msg(handshake["box"], client.recv(BUFSIZ))
+                print(msg)
+                if msg != "{quit}":
+                    broadcast(msg, name+": ")
+                else:
+                    client.send(
+                        dh_utils.encrypt_msg(
+                            handshake["box"], 
+                            "{quit}"
+                        )
+                    )
+                    client.close()
+                    del clients[client]
+                    broadcast("%s has left the chat." % name)
+                    break
 
 
 def broadcast(msg, prefix=""):  # prefix is for name identification.
     """Broadcasts a message to all the clients."""
 
-    for sock in clients:
-        sock.send(bytes(prefix, "utf8")+msg)
+    for client in clients:
+        client.send(
+            dh_utils.encrypt_msg(
+                clients[client]["box"], 
+                prefix + msg
+            )
+        )
 
-        
-clients = {}
-addresses = {}
+try:
+    clients = {}
+    addresses = {}
 
-HOST = ''
-PORT = 33000
-BUFSIZ = 2048
-ADDR = (HOST, PORT)
+    HOST = ''
+    PORT = 33000
+    BUFSIZ = 2048
+    ADDR = (HOST, PORT)
 
-SERVER = socket(AF_INET, SOCK_STREAM)
-SERVER.bind(ADDR)
+    SERVER = socket(AF_INET, SOCK_STREAM)
+    SERVER.bind(ADDR)
 
-if __name__ == "__main__":
-    SERVER.listen(5)
-    print("Waiting for connection...")
-    ACCEPT_THREAD = Thread(target=accept_incoming_connections)
-    ACCEPT_THREAD.start()
-    ACCEPT_THREAD.join()
-    SERVER.close()
+    if __name__ == "__main__":
+
+        signal(SIGINT, handler)
+
+        SERVER.listen(5)
+        print("Waiting for connection...")
+        ACCEPT_THREAD = Thread(target=accept_incoming_connections)
+        ACCEPT_THREAD.start()
+        ACCEPT_THREAD.join()
+        SERVER.close()
+
+except SocketError:
+    print(SocketError)
+    SERVER.close()    
+    exit(0)
+finally:
+    SERVER.close()    

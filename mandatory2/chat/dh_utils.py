@@ -7,6 +7,11 @@ from dh_safe_primes import dh_sp_array
 import nacl.secret
 import nacl.utils
 
+import hashlib
+from cryptography.hazmat.primitives import hashes
+from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+from cryptography.hazmat import backends
+
 def get_random_safe_prime():
     return random.choice(dh_sp_array)
 
@@ -34,30 +39,26 @@ def isPrime(x):
 Not related to DH
 """
 
-def encrypt_msg(key, msg):
+def convert_secret_key_to_derived_key(secret_key):
+    kdf = PBKDF2HMAC(
+        algorithm=hashes.SHA256(),
+        length=32,
+        salt=b"00000000",
+        iterations=100000,
+        backend=backends.default_backend()
+    )
+    key = kdf.derive(str(secret_key).encode('utf-8'))
+    return key
 
-    binary_encoded_content = msg.encode()
-
-    # This must be kept secret, this is the combination to your safe
-    key = bin(key)
-
+def create_secret_box(secret_key):
     # This is your safe, you can use it to encrypt or decrypt messages
-    box = nacl.secret.SecretBox(key)
+    return nacl.secret.SecretBox(convert_secret_key_to_derived_key(secret_key))
 
+def encrypt_msg(box, msg):
+    binary_encoded_content = msg.encode()
     encrypted_content = box.encrypt(binary_encoded_content)
-
     assert len(encrypted_content) == len(binary_encoded_content) + box.NONCE_SIZE + box.MACBYTES
-
     return encrypted_content
 
-def decrypt_msg(key, msg):
-
-    binary_encoded_content = msg.encode()
-
-    # This must be kept secret, this is the combination to your safe
-    key = bin(key)
-
-    # This is your safe, you can use it to encrypt or decrypt messages
-    box = nacl.secret.SecretBox(key)
-
-    return box.decrypt(binary_encoded_content)
+def decrypt_msg(box, msg):
+    return box.decrypt(msg, nonce=None).decode("ASCII")

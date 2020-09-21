@@ -6,7 +6,7 @@ from pathlib import Path
 import string
 from random import choice
 
-file_to_encrypt = input("type the path to the file which shall be encrypted_conten: " )
+file_to_encrypt = input("type the path to the file which shall be encrypted: " )
 
 def get_random_string(length):
     letters = string.ascii_lowercase
@@ -41,7 +41,7 @@ try:
     key_f.write(key)
     key_f.close()
 
-    
+
 
 except IOError:
     print("File not accessible")
