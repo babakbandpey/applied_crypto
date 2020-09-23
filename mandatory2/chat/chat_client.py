@@ -5,28 +5,13 @@ from threading import Thread
 import tkinter
 import dh_utils
 import json
-from signal import signal, SIGINT
-from sys import exit
-
-import base64
 
 box = None
 msg_list = None
 my_msg = None
 top = None
-
-def handler(signal_received, frame):
-    # Handle any cleanup here
-    client_socket.close()
-    print('SIGINT or CTRL-C detected. Exiting gracefully')
-    exit(0)
     
 def receive():
-
-    print("#########################################")
-    print("RECEIVE")
-    print("#########################################")
-
     """Handles receiving of messages."""
     while True:
         try:

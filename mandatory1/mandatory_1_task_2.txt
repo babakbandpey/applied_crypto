@@ -1,0 +1,25 @@
+I found the solution to this question  on this page:
+
+https://crypto.stackexchange.com/questions/59/taking-advantage-of-one-time-pad-key-reuse
+
+and use the image_xor.py to create mandatory_1_task_2.gif and from the image it is easy
+to discern the text Hello There and the image of a snow flake crsytal
+
+
+So far I learned that it is bad to reuse the pad becuase it will make is possible to attack the
+encrypted material if it is known that the same pad has been reused and if the type of the content
+known then it will be possible to systematically work out a solution to decrypt the message as 
+describe on page by the user Abijith Kp which has copied material from https://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html
+regarding the Time Pad Attack or Crib Drag
+
+related links
+
+https://crypto.stackexchange.com/questions/59/taking-advantage-of-one-time-pad-key-reuse
+
+https://toolbox.lotusfa.com/crib_drag/
+
+http://cribdrag.com/
+
+https://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html
+
+
