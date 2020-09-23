@@ -1,0 +1,3 @@
+Task was accomplished by using the image_xor.file
+
+The image is mandatory_1_task_1_plaintext.gif
