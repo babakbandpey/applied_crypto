@@ -1,0 +1,7 @@
+The least number of shares to create the the message is 11
+and the only thing that seems to be obvious is that the message has the same size as each
+individual share
+
+Counter argument for using SSS
+
+https://blog.keys.casa/shamirs-secret-sharing-security-shortcomings/
