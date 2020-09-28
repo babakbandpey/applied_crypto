@@ -1,0 +1,7 @@
+MD5 of the files are identical
+
+da5c61e1edc0f18337e46418e48c1290  files_session6/Linux version/erase
+da5c61e1edc0f18337e46418e48c1290  files_session6/Linux version/hello
+
+It is obvious that the both files have the same MD5 and it is an indication that MD5 is broken
+and is useless and that the evil file can be downloaded and confirmed as the good file.
